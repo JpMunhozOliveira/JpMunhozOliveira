@@ -25,7 +25,7 @@ On my GitHub profile, you'll find some of the projects I've developed and the co
 
 ### 💻 My Environment
 - Using: <a href="#"> <img src="icons/tools/vscode/vscode-original.svg" alt="VS Code Logo" width="25" height="25"/> </a>
-         <a href="#"> <img src="icons/tools/unity/unity-original.svg" alt="Unity Logo" width="25" height="25"/> </a>
+         <a href="#"> <img src="icons/tools/unity/unity.svg" alt="Unity Logo" width="25" height="25"/> </a>
          
 - Programming in: <a href="#"> <img src="icons/programming/csharp/csharp-original.svg" alt="C sharp" width="25" height="25"/></a>
                   <a href="#"> <img src="icons/programming/html5/html5-original.svg" alt="Html" width="25" height="25"/></a>
@@ -36,6 +36,7 @@ On my GitHub profile, you'll find some of the projects I've developed and the co
 <hr>
 
 ### ⚡Projects
+- [Unity Learnings](https://github.com/JpMunhozOliveira/Unity-Learnings/blob/main/README.md)
 - [Dark Depths](https://github.com/JpMunhozOliveira/Dark-Depths/blob/main/README.md)
 
 <hr>
