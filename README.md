@@ -22,11 +22,21 @@ On my GitHub profile, you'll find some of the projects I've developed and the co
 <br>
 
 ## 💻 My Environment
-- Writing with: ![Visual Studio Code][vsc_logo]
-- Programming in: [![Csharp][csharp_logo]] [![Html][Html_Logo]] [![Css][Css_Logo]
-- Working on: 
+- Using: <img src="icons/tools/vscode/vscode-original.svg" alt="VS Code Logo" width="25" height="25"/>
+         <img src="icons/tools/unity/unity-original.svg" alt="Unity Logo" width="25" height="25"/>
+         
+- Programming in: <img src="icons/programming/csharp/csharp-original.svg" alt="C sharp" width="25" height="25"/>
+                  <img src="icons/programming/html5/html5-original.svg" alt="Html" width="25" height="25"/>
+                  <img src="icons/programming/css3/css3-original.svg" alt="Css" width="25" height="25"/>
+                  
+>Note: I'm easily adapting to new programming languages and environments, so they're not posing a major challenge for me 📖💡
 
-[vsc_logo]: icons/tools/vscode/vscode-original.svg
+## ⚡Projects
+- [Dark Depths](#)
+
+## 🏫 Courses
+freeCodeCamp
+-[Responsive Web Design](#)
 
 <!--
 **JpMunhozOliveira/JpMunhozOliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
