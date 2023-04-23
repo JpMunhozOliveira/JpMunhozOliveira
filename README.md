@@ -36,7 +36,7 @@ On my GitHub profile, you'll find some of the projects I've developed and the co
 <hr>
 
 ### ⚡Projects
-- [Unity Learnings](https://github.com/JpMunhozOliveira/Unity-Learnings/blob/main/README.md)
+- [Unity Projects](https://github.com/JpMunhozOliveira/Unity-Learnings/blob/main/README.md)
 - [Dark Depths](https://github.com/JpMunhozOliveira/Dark-Depths/blob/main/README.md)
 
 <hr>
