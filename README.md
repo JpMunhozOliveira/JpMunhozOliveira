@@ -24,12 +24,12 @@ On my GitHub profile, you'll find some of the projects I've developed and the co
 <hr>
 
 ### 💻 My Environment
-- Using: <a href="#"> <img src="icons/tools/vscode/vscode-original.svg" alt="VS Code Logo" width="25" height="25"/> </a>
-         <a href="#"> <img src="icons/tools/unity/unity.svg" alt="Unity Logo" width="25" height="25"/> </a>
+- Using: <a href="#"> <img src="resources/icons/tools/vscode/vscode-original.svg" alt="VS Code Logo" width="25" height="25"/> </a>
+         <a href="#"> <img src="resources/icons/tools/unity/unity.svg" alt="Unity Logo" width="25" height="25"/> </a>
          
-- Programming in: <a href="#"> <img src="icons/programming/csharp/csharp-original.svg" alt="C sharp" width="25" height="25"/></a>
-                  <a href="#"> <img src="icons/programming/html5/html5-original.svg" alt="Html" width="25" height="25"/></a>
-                  <a href="#"> <img src="icons/programming/css3/css3-original.svg" alt="Css" width="25" height="25"/></a>
+- Programming in: <a href="#"> <img src="resources/icons/programming/csharp/csharp-original.svg" alt="C sharp" width="25" height="25"/></a>
+                  <a href="#"> <img src="resources/icons/programming/html5/html5-original.svg" alt="Html" width="25" height="25"/></a>
+                  <a href="#"> <img src="resources/icons/programming/css3/css3-original.svg" alt="Css" width="25" height="25"/></a>
                   
 >Note: I'm easily adapting to new programming languages and environments, so they're not posing a major challenge for me 📖💡
 
@@ -43,7 +43,7 @@ On my GitHub profile, you'll find some of the projects I've developed and the co
 
 ### 🏫 Courses
 
-#### <a href="#"> <img src="icons/courses/freecodecamp/fcc_primary_small.svg" alt="C sharp" width="25" height="25"/></a> freeCodeCamp
+#### <a href="#"> <img src="resources/icons/courses/freecodecamp/fcc_primary_small.svg" alt="C sharp" width="25" height="25"/></a> freeCodeCamp
 - [Responsive Web Design](https://github.com/JpMunhozOliveira/Responsive-Web-Design/blob/main/README.md)
 
 <!--
