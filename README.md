@@ -9,6 +9,8 @@ On my GitHub profile, you'll find some of the projects I've developed and the co
 
 📧 If you'd like to get in touch, you can send me a message on my [LinkedIn](https://www.linkedin.com/in/jpmunhozoliveira/) or through my [E-mail](mailto:jpmunhozoliveira@gmail.com). I look forward to hearing from you! 📬👋🏼
 
+![snake gif](https://github.com/JpMunhozOliveira/JpMunhozOliveira/blob/output/github-contribution-grid-snake.svg)
+
 <hr>
 
 ### 🔭 I’m currently ...
