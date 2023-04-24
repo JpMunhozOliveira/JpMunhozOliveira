@@ -49,7 +49,7 @@ On my GitHub profile, you'll find some of the projects I've developed and the co
 
 ### 🏫Courses
 
-#### <picture><img src="resources/icons/courses/freecodecamp/fcc_primary_small.svg" alt="C sharp" width="25" height="25"></picture> freeCodeCamp
+#### <a href="#"><img src="resources/icons/courses/freecodecamp/fcc_primary_small.svg" alt="C sharp" width="25" height="25"></a> freeCodeCamp
 - [Responsive Web Design](https://github.com/JpMunhozOliveira/Responsive-Web-Design/blob/main/README.md)
 
 <!--
