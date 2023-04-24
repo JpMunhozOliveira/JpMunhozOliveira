@@ -1,4 +1,4 @@
-### 👋 Hi there, I'm João Pedro
+### 👋Hi there, I'm João Pedro
 
 - Unity game developer 🎮
 - Front-end developer (in progress)🌐
@@ -13,37 +13,43 @@ On my GitHub profile, you'll find some of the projects I've developed and the co
 
 <hr>
 
-### 🔭 I’m currently ...
+### 🔭I’m currently ...
 
 💼 looking for a job that can help me improve my skills and develop new competencies. I hope to find a challenging and stimulating opportunity where I can apply my previous experience and learn from new challenges. 📚🌟
 
-### 🌱 I’m currently learning ...
+### 🌱I’m currently learning ...
 
 🎮🕹️ design patterns to enhance the creation of my games. Having knowledge of design patterns is crucial for developing reusable and scalable solutions, ultimately making the development process more efficient and easier to maintain. 💡📚
 
 <hr>
 
-### 💻 My Environment
-- Using: <a href="#"> <img src="icons/tools/vscode/vscode-original.svg" alt="VS Code Logo" width="25" height="25"/> </a>
-         <a href="#"> <img src="icons/tools/unity/unity.svg" alt="Unity Logo" width="25" height="25"/> </a>
-         
-- Programming in: <a href="#"> <img src="icons/programming/csharp/csharp-original.svg" alt="C sharp" width="25" height="25"/></a>
-                  <a href="#"> <img src="icons/programming/html5/html5-original.svg" alt="Html" width="25" height="25"/></a>
-                  <a href="#"> <img src="icons/programming/css3/css3-original.svg" alt="Css" width="25" height="25"/></a>
-                  
+### 💻My Environment
+<div align="center">
+ <h3> Apps </h3>
+ <picture><img src="resources/icons/tools/vscode/vscode-original.svg" alt="VS Code Logo" width="50" height="50"></picture>
+ <picture><img src="resources/icons/tools/unity/unity.svg" alt="Unity Logo" width="50" height="50"></picture>
+ 
+ <h3> Languages </h3>
+ <picture><img src="resources/icons/programming/csharp/csharp-original.svg" alt="C sharp" width="50" height="50"></picture>
+ <picture><img src="resources/icons/programming/html5/html5-original.svg" alt="Html" width="50" height="50"></picture>
+ <picture><img src="resources/icons/programming/css3/css3-original.svg" alt="Css" width="50" height="50"></picture>
+ 
+
 >Note: I'm easily adapting to new programming languages and environments, so they're not posing a major challenge for me 📖💡
+ 
+</div>
 
 <hr>
 
 ### ⚡Projects
-- [Unity Learnings](https://github.com/JpMunhozOliveira/Unity-Learnings/blob/main/README.md)
+- [Unity Projects](https://github.com/JpMunhozOliveira/Unity-Learnings/blob/main/README.md)
 - [Dark Depths](https://github.com/JpMunhozOliveira/Dark-Depths/blob/main/README.md)
 
 <hr>
 
-### 🏫 Courses
+### 🏫Courses
 
-#### <a href="#"> <img src="icons/courses/freecodecamp/fcc_primary_small.svg" alt="C sharp" width="25" height="25"/></a> freeCodeCamp
+#### <picture><img src="resources/icons/courses/freecodecamp/fcc_primary_small.svg" alt="C sharp" width="25" height="25"></picture> freeCodeCamp
 - [Responsive Web Design](https://github.com/JpMunhozOliveira/Responsive-Web-Design/blob/main/README.md)
 
 <!--
