@@ -24,14 +24,20 @@ On my GitHub profile, you'll find some of the projects I've developed and the co
 <hr>
 
 ### 💻My Environment
-- Using: <picture><img src="resources/icons/tools/vscode/vscode-original.svg" alt="VS Code Logo" width="25" height="25"></picture>
-         <picture><img src="resources/icons/tools/unity/unity.svg" alt="Unity Logo" width="25" height="25"></picture>
-         
-- Programming in: <picture><img src="resources/icons/programming/csharp/csharp-original.svg" alt="C sharp" width="25" height="25"></picture>
-                  <picture><img src="resources/icons/programming/html5/html5-original.svg" alt="Html" width="25" height="25"></picture>
-                  <picture><img src="resources/icons/programming/css3/css3-original.svg" alt="Css" width="25" height="25"></picture>
-                  
+<div align="center">
+ <h3> Apps </h3>
+ <picture><img src="resources/icons/tools/vscode/vscode-original.svg" alt="VS Code Logo" width="50" height="50"></picture>
+ <picture><img src="resources/icons/tools/unity/unity.svg" alt="Unity Logo" width="50" height="50"></picture>
+ 
+ <h3> Languages </h3>
+ <picture><img src="resources/icons/programming/csharp/csharp-original.svg" alt="C sharp" width="50" height="50"></picture>
+ <picture><img src="resources/icons/programming/html5/html5-original.svg" alt="Html" width="50" height="50"></picture>
+ <picture><img src="resources/icons/programming/css3/css3-original.svg" alt="Css" width="50" height="50"></picture>
+ 
+
 >Note: I'm easily adapting to new programming languages and environments, so they're not posing a major challenge for me 📖💡
+ 
+</div>
 
 <hr>
 
