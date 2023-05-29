@@ -24,6 +24,9 @@ On my GitHub profile, you'll find some of the projects I've developed and the co
 <hr>
 
 ### 💻My Environment
+
+> Tools, languages, and other things that I like to work with.
+
 <div align="center">
  <h3> Apps </h3>
  <a href="#"><img src="resources/icons/tools/vscode/vscode-original.svg" alt="VS Code Logo" width="50" height="50"></a>
@@ -36,12 +39,35 @@ On my GitHub profile, you'll find some of the projects I've developed and the co
  
 
 >Note: I'm easily adapting to new programming languages and environments, so they're not posing a major challenge for me 📖💡
- 
 </div>
 
 <hr>
 
 ### ⚡Projects
+<!-- To Do: Eaqui eu vou fazer uma tabela com os projetos que ja fiz, eles terao iagnes representado cada um e envando para o link deles apos apertar a imagem -->
+<div align="center">
+ <table>
+   <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/go-flat.svg" width="48" height="48" alt="Golang" />
+      </a>
+      <br>Go
+    </td>
+  <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/go-flat.svg" width="48" height="48" alt="Golang" />
+      </a>
+      <br>Go
+    </td>
+  <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/go-flat.svg" width="48" height="48" alt="Golang" />
+      </a>
+      <br>Go
+    </td>
+ </table>
+</div>
+
 - [Unity Projects](https://github.com/JpMunhozOliveira/Unity-Learnings/blob/main/README.md)
 - [Dark Depths](https://github.com/JpMunhozOliveira/Dark-Depths/blob/main/README.md)
 
@@ -52,13 +78,11 @@ On my GitHub profile, you'll find some of the projects I've developed and the co
 #### <a href="#"><img src="resources/icons/courses/freecodecamp/fcc_primary_small.svg" alt="C sharp" width="25" height="25"></a> freeCodeCamp
 - [Responsive Web Design](https://github.com/JpMunhozOliveira/Responsive-Web-Design/blob/main/README.md)
 
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<!-- links -->
+<!-- ToDo: Ver como funciona esse esquema aqui para colocar imagnes -->
+[84.51°]: https://github.com/8451 "84.51° Github Home"
+[issues page]: https://github.com/MacroPower/MacroPower/issues "MacroPower/issues"
+[linkedin]: https://www.linkedin.com/in/colvinjm "Jacob Colvin LinkedIn"
+[homelab]: https://github.com/MacroPower/homelab "MacroPower/homelab"
+[blog]: https://jacobcolvin.com/posts/ "My Blog"
