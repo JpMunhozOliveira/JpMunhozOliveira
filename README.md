@@ -9,6 +9,10 @@ On my GitHub profile, you'll find some of the projects I've developed and the co
 
 📧 If you'd like to get in touch, you can send me a message on my [LinkedIn](https://www.linkedin.com/in/jpmunhozoliveira/) or through my [E-mail](mailto:jpmunhozoliveira@gmail.com). I look forward to hearing from you! 👋🏼 You also can see some games I created on my [itch.io](https://jaoophez.itch.io/) page.
 
+<!-- Todo: Fazer uma seção de contato com botões -->
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JpMunhozOliveira&hide=TeX&layout=compact)
+
 ![snake gif](https://github.com/JpMunhozOliveira/JpMunhozOliveira/blob/output/github-contribution-grid-snake.svg)
 
 <hr>
@@ -24,6 +28,9 @@ On my GitHub profile, you'll find some of the projects I've developed and the co
 <hr>
 
 ### 💻My Environment
+
+> Tools, languages, and other things that I like to work with.
+
 <div align="center">
  <h3> Apps </h3>
  <a href="#"><img src="resources/icons/tools/vscode/vscode-original.svg" alt="VS Code Logo" width="50" height="50"></a>
@@ -34,31 +41,58 @@ On my GitHub profile, you'll find some of the projects I've developed and the co
  <a href="#"><img src="resources/icons/programming/html5/html5-original.svg" alt="Html" width="50" height="50"></a>
  <a href="#"><img src="resources/icons/programming/css3/css3-original.svg" alt="Css" width="50" height="50"></a>
  
+</div>
 
 >Note: I'm easily adapting to new programming languages and environments, so they're not posing a major challenge for me 📖💡
- 
-</div>
 
 <hr>
 
 ### ⚡Projects
+<!-- To Do: Eaqui eu vou fazer uma tabela com os projetos que ja fiz, eles terao iagnes representado cada um e envando para o link deles apos apertar a imagem -->
+
+<div align="center">
+ <table>
+ <!------------------------Haeder Unity------------------------->
+  <tr>
+   <th colspan="3"> Unity </th>
+  </tr>
+ <!-----------------------Projects Unity------------------------>
+  <tr>
+   <td align="center" width="126">
+      <a href="#macropower-tech">
+        <img src="./img/go-flat.svg" width="48" height="48" alt="Golang" />
+      </a>
+      <br>Pong
+   </td>
+   <td align="center" width="126">
+      <a href="#macropower-tech">
+        <img src="./img/go-flat.svg" width="48" height="48" alt="Golang" />
+      </a>
+      <br>Flappy Bird
+   </td>
+   <td align="center" width="126">
+      <a href="#macropower-tech">
+        <img src="./img/go-flat.svg" width="48" height="48" alt="Golang" />
+      </a>
+      <br>Breakout
+   </td>
+  </tr>
+ </table>
+
+<table> 
+<!-----------------------Header HTML------------------------>
+ <tr>
+   <th colspan="3"> HTML </th>
+ </tr>
+</table>
+ 
+</div>
+
 - [Unity Projects](https://github.com/JpMunhozOliveira/Unity-Learnings/blob/main/README.md)
 - [Dark Depths](https://github.com/JpMunhozOliveira/Dark-Depths/blob/main/README.md)
-
 <hr>
 
 ### 🏫Courses
 
 #### <a href="#"><img src="resources/icons/courses/freecodecamp/fcc_primary_small.svg" alt="C sharp" width="25" height="25"></a> freeCodeCamp
 - [Responsive Web Design](https://github.com/JpMunhozOliveira/Responsive-Web-Design/blob/main/README.md)
-
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
