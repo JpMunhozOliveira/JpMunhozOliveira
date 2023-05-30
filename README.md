@@ -27,26 +27,30 @@ On my GitHub profile, you'll find some of the projects I've developed and the co
 
 ### 💻My Environment
 
-> Tools, languages, and other things that I like to work with.
+Tools, languages, and other things that I like to work with.
 
-<div align="left">
- <h3> Apps </h3>
+
+<a href="#"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JpMunhozOliveira&hide=ShaderLab,HLSL&theme=github_dark&hide_border=true&card_width=400" /></a>
+
+<div align="right">
+ <div align="left">
+ <h4> Apps </h4>
  <a href="#"><img src="resources/icons/tools/vscode/vscode-original.svg" alt="VS Code Logo" width="50" height="50"></a>
  <a href="#"><img src="resources/icons/tools/unity/unity.svg" alt="Unity Logo" width="50" height="50"></a>
- 
- <h3> Languages </h3>
+ <h4> Languages </h4>
  <a href="#"><img src="resources/icons/programming/csharp/csharp-original.svg" alt="C sharp" width="50" height="50"></a>
  <a href="#"><img src="resources/icons/programming/html5/html5-original.svg" alt="Html" width="50" height="50"></a>
  <a href="#"><img src="resources/icons/programming/css3/css3-original.svg" alt="Css" width="50" height="50"></a>
- 
+ </div>
 </div>
 
 >Note: I'm easily adapting to new programming languages and environments, so they're not posing a major challenge for me 📖💡
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JpMunhozOliveira&hide=TeX&layout=compact) -->
 <hr>
 
 ### ⚡Projects
+
+Some of my projects.
 
 <div align="center">
  <table>
@@ -54,7 +58,7 @@ On my GitHub profile, you'll find some of the projects I've developed and the co
  <!------------------------Header Unity------------------------->
   
   <tr>
-   <th colspan="3"> Unity </th>
+   <th colspan="4"> Unity </th>
   </tr>
   
  <!-----------------------Projects Unity------------------------>
@@ -78,24 +82,32 @@ On my GitHub profile, you'll find some of the projects I've developed and the co
       </a>
       <br>Breakout
    </td>
+   <td align="center" width="126">
+      <a href="https://github.com/JpMunhozOliveira/Dark-Depths/blob/main/README.md">
+        <img src="resources/images/UnityProjects/" width="64" alt="Dark depths Icon" />
+      </a>
+      <br>Dark Depths
+   </td>
   </tr>
  </table>
 
-<table>
+
+
  
 <!-----------------------Header HTML------------------------>
- 
+ <!-- <table>
  <tr>
    <th colspan="3"> HTML </th>
  </tr>
 </table>
- 
+ -->
 </div>
-
-- [Dark Depths](https://github.com/JpMunhozOliveira/Dark-Depths/blob/main/README.md)
+ 
 <hr>
 
 ### 🏫Courses
+
+Courses that I have already taken or am currently taking.
 
 <div align="center">
  <table>
@@ -103,7 +115,7 @@ On my GitHub profile, you'll find some of the projects I've developed and the co
  <!------------------------Header------------------------->
   
   <tr>
-   <th colspan="1"><img src="resources/icons/courses/freecodecamp/fcc_primary_small.svg" width="25" height="25" align="center"> freeCodeCamp </th>
+   <th colspan="1"><a href="#"><img src="resources/icons/courses/freecodecamp/fcc_primary_small.svg" width="25" height="25" align="center"></a> freeCodeCamp </th>
   </tr>
   
  <!-----------------------Projects------------------------>
