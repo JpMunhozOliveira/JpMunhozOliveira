@@ -49,11 +49,15 @@ On my GitHub profile, you'll find some of the projects I've developed and the co
 
 <div align="center">
  <table>
- <!------------------------Haeder Unity------------------------->
+  
+ <!------------------------Header Unity------------------------->
+  
   <tr>
    <th colspan="3"> Unity </th>
   </tr>
+  
  <!-----------------------Projects Unity------------------------>
+  
   <tr>
    <td align="center" width="126">
       <a href="https://github.com/JpMunhozOliveira/Pong">
@@ -76,8 +80,10 @@ On my GitHub profile, you'll find some of the projects I've developed and the co
   </tr>
  </table>
 
-<table> 
+<table>
+ 
 <!-----------------------Header HTML------------------------>
+ 
  <tr>
    <th colspan="3"> HTML </th>
  </tr>
@@ -90,5 +96,25 @@ On my GitHub profile, you'll find some of the projects I've developed and the co
 
 ### 🏫Courses
 
-#### <a href="#"><img src="resources/icons/courses/freecodecamp/fcc_primary_small.svg" alt="C sharp" width="25" height="25"></a> freeCodeCamp
-- [Responsive Web Design](https://github.com/JpMunhozOliveira/Responsive-Web-Design/blob/main/README.md)
+<div align="center">
+ <table>
+  
+ <!------------------------Header------------------------->
+  
+  <tr>
+   <th colspan="1"><img src="resources/icons/courses/freecodecamp/fcc_primary_small.svg" width="25" height="25" align="center"> freeCodeCamp </th>
+  </tr>
+  
+ <!-----------------------Projects------------------------>
+  
+  <tr>
+   <td align="center" width="250">
+      <a href="https://github.com/JpMunhozOliveira/Responsive-Web-Design/blob/main/README.md">
+        <img src="resources/icons/courses/freecodecamp/Web_Development_Icon.png" width="86.22" height="67.32"/>
+      </a>
+      <br>Responsive Web Design
+   </td>
+  </tr>
+  
+ </table>
+</div>
