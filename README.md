@@ -29,7 +29,7 @@ On my GitHub profile, you'll find some of the projects I've developed and the co
 
 > Tools, languages, and other things that I like to work with.
 
-<div align="center">
+<div align="left">
  <h3> Apps </h3>
  <a href="#"><img src="resources/icons/tools/vscode/vscode-original.svg" alt="VS Code Logo" width="50" height="50"></a>
  <a href="#"><img src="resources/icons/tools/unity/unity.svg" alt="Unity Logo" width="50" height="50"></a>
@@ -42,7 +42,8 @@ On my GitHub profile, you'll find some of the projects I've developed and the co
 </div>
 
 >Note: I'm easily adapting to new programming languages and environments, so they're not posing a major challenge for me 📖💡
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JpMunhozOliveira&hide=TeX&layout=compact)
+
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JpMunhozOliveira&hide=TeX&layout=compact) -->
 <hr>
 
 ### ⚡Projects
