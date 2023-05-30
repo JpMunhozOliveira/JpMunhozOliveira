@@ -11,8 +11,6 @@ On my GitHub profile, you'll find some of the projects I've developed and the co
 
 <!-- Todo: Fazer uma seção de contato com botões -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JpMunhozOliveira&hide=TeX&layout=compact)
-
 ![snake gif](https://github.com/JpMunhozOliveira/JpMunhozOliveira/blob/output/github-contribution-grid-snake.svg)
 
 <hr>
@@ -44,11 +42,10 @@ On my GitHub profile, you'll find some of the projects I've developed and the co
 </div>
 
 >Note: I'm easily adapting to new programming languages and environments, so they're not posing a major challenge for me 📖💡
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JpMunhozOliveira&hide=TeX&layout=compact)
 <hr>
 
 ### ⚡Projects
-<!-- To Do: Eaqui eu vou fazer uma tabela com os projetos que ja fiz, eles terao iagnes representado cada um e envando para o link deles apos apertar a imagem -->
 
 <div align="center">
  <table>
@@ -88,7 +85,6 @@ On my GitHub profile, you'll find some of the projects I've developed and the co
  
 </div>
 
-- [Unity Projects](https://github.com/JpMunhozOliveira/Unity-Learnings/blob/main/README.md)
 - [Dark Depths](https://github.com/JpMunhozOliveira/Dark-Depths/blob/main/README.md)
 <hr>
 
