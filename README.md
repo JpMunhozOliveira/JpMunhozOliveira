@@ -59,20 +59,20 @@ On my GitHub profile, you'll find some of the projects I've developed and the co
  <!-----------------------Projects Unity------------------------>
   <tr>
    <td align="center" width="126">
-      <a href="https://github.com/JpMunhozOliveira/Unity-Learnings/tree/Pong">
+      <a href="https://github.com/JpMunhozOliveira/Pong">
         <img src="resources/images/UnityProjects/PongIcon.png" width="64" alt="Pong Icon" />
       </a>
       <br>Pong
    </td>
    <td align="center" width="126">
-      <a href="https://github.com/JpMunhozOliveira/Unity-Learnings/tree/Flappy-Bird">
+      <a href="https://github.com/JpMunhozOliveira/Flappy-Bird">
         <img src="resources/images/UnityProjects/FlappyIcon.png" width="64" alt="Flappy Bird Icon" />
       </a>
       <br>Flappy Bird
    </td>
    <td align="center" width="126">
-      <a href="https://github.com/JpMunhozOliveira/Unity-Learnings/tree/Breakout">
-        <img src="resources/images/UnityProjects/BreakoutIcon.png" width="64"  alt="Breakout Icon" />
+      <a href="https://github.com/JpMunhozOliveira/Breakout">
+        <img src="resources/images/UnityProjects/BreakoutIcon.png" width="64" alt="Breakout Icon" />
       </a>
       <br>Breakout
    </td>
