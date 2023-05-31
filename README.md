@@ -7,11 +7,21 @@
 
 On my GitHub profile, you'll find some of the projects I've developed and the contributions I've made to open-source projects. Feel free to explore and add your own comments and suggestions! 🙌🏼
 
-📧 If you'd like to get in touch, you can send me a message on my [LinkedIn](https://www.linkedin.com/in/jpmunhozoliveira/) or through my [E-mail](mailto:jpmunhozoliveira@gmail.com). I look forward to hearing from you! 👋🏼 You also can see some games I created on my [itch.io](https://jaoophez.itch.io/) page.
-
-<!-- Todo: Fazer uma seção de contato com botões -->
-
 ![snake gif](https://github.com/JpMunhozOliveira/JpMunhozOliveira/blob/output/github-contribution-grid-snake.svg)
+
+<hr>
+
+### 📩Contact
+
+📧 If you'd like to get in touch, you can send me a message:
+
+<div>
+ <a href="https://www.linkedin.com/in/jpmunhozoliveira/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Link Linkedin" /></a>
+  <a href="https://jaoophez.itch.io/"><img src="https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white" alt="Link Itch.io" /></a>
+ <a href="mailto:jpmunhozoliveira@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Link Gmail" /></a>
+ <a href="#"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Link Instagram" /></a>
+ </div>
+
 
 <hr>
 
