@@ -102,9 +102,6 @@ Some of my projects.
   </tr>
  </table>
 
-
-
- 
 <!-----------------------Header HTML------------------------>
 <table>
  <tr>
@@ -113,7 +110,7 @@ Some of my projects.
  <tr>
    <td align="center" width="126">
       <a href="https://github.com/JpMunhozOliveira/Snake-Html5-Js">
-        <img src="resources/images/" width="64" alt="Snake Icon" />
+        <img src="resources/images/HtmlProjects/SnakeIcon.png" width="64" alt="Snake Icon" />
       </a>
       <br>Snake
    </td>
