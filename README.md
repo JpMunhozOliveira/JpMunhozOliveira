@@ -55,6 +55,9 @@ Tools, languages, and other things that I like to work with.
  </div>
 </div>
 
+<br>
+<br>
+
 >Note: I'm easily adapting to new programming languages and environments, so they're not posing a major challenge for me 📖💡
 
 <hr>
