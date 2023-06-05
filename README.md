@@ -92,7 +92,7 @@ Some of my projects.
    </td>
    <td align="center" width="126">
       <a href="https://github.com/JpMunhozOliveira/Dark-Depths/blob/main/README.md">
-        <img src="resources/images/UnityProjects/" width="64" alt="Dark depths Icon" />
+        <img src="resources/images/UnityProjects/DarkDepthsIcon.png" width="64" alt="Dark depths Icon" />
       </a>
       <br>Dark Depths
    </td>
