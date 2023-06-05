@@ -55,6 +55,9 @@ Tools, languages, and other things that I like to work with.
  </div>
 </div>
 
+<br>
+<br>
+
 >Note: I'm easily adapting to new programming languages and environments, so they're not posing a major challenge for me 📖💡
 
 <hr>
@@ -69,18 +72,12 @@ Some of my projects.
  <!------------------------Header Unity------------------------->
   
   <tr>
-   <th colspan="4"> Unity </th>
+   <th colspan="3"> Unity </th>
   </tr>
   
  <!-----------------------Projects Unity------------------------>
   
   <tr>
-   <td align="center" width="126">
-      <a href="https://github.com/JpMunhozOliveira/Pong">
-        <img src="resources/images/UnityProjects/PongIcon.png" width="64" alt="Pong Icon" />
-      </a>
-      <br>Pong
-   </td>
    <td align="center" width="126">
       <a href="https://github.com/JpMunhozOliveira/Flappy-Bird">
         <img src="resources/images/UnityProjects/FlappyIcon.png" width="64" alt="Flappy Bird Icon" />
@@ -108,12 +105,21 @@ Some of my projects.
    <th colspan="3"> HTML </th>
  </tr>
  <tr>
+  
+  <td align="center" width="126">
+      <a href="https://github.com/JpMunhozOliveira/Pong-Html5-Js">
+        <img src="resources/images/HtmlProjects/PongIcon.png" width="64" alt="Pong Icon" />
+      </a>
+      <br>Pong
+   </td>
+  
    <td align="center" width="126">
       <a href="https://github.com/JpMunhozOliveira/Snake-Html5-Js">
         <img src="resources/images/HtmlProjects/SnakeIcon.png" width="64" alt="Snake Icon" />
       </a>
       <br>Snake
    </td>
+  
  </tr>
 </table>
  
