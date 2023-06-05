@@ -51,6 +51,7 @@ Tools, languages, and other things that I like to work with.
  <a href="#"><img src="resources/icons/programming/csharp/csharp-original.svg" alt="C sharp" width="50" height="50"></a>
  <a href="#"><img src="resources/icons/programming/html5/html5-original.svg" alt="Html" width="50" height="50"></a>
  <a href="#"><img src="resources/icons/programming/css3/css3-original.svg" alt="Css" width="50" height="50"></a>
+ <a href="#"><img src="resources/icons/programming/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"></a>
  </div>
 </div>
 
@@ -105,12 +106,20 @@ Some of my projects.
 
  
 <!-----------------------Header HTML------------------------>
- <!-- <table>
+<table>
  <tr>
    <th colspan="3"> HTML </th>
  </tr>
+ <tr>
+   <td align="center" width="126">
+      <a href="https://github.com/JpMunhozOliveira/Snake-Html5-Js">
+        <img src="resources/images/" width="64" alt="Snake Icon" />
+      </a>
+      <br>Snake
+   </td>
+ </tr>
 </table>
- -->
+ 
 </div>
  
 <hr>
