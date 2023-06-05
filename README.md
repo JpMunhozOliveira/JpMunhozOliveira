@@ -7,11 +7,21 @@
 
 On my GitHub profile, you'll find some of the projects I've developed and the contributions I've made to open-source projects. Feel free to explore and add your own comments and suggestions! 🙌🏼
 
-📧 If you'd like to get in touch, you can send me a message on my [LinkedIn](https://www.linkedin.com/in/jpmunhozoliveira/) or through my [E-mail](mailto:jpmunhozoliveira@gmail.com). I look forward to hearing from you! 👋🏼 You also can see some games I created on my [itch.io](https://jaoophez.itch.io/) page.
-
-<!-- Todo: Fazer uma seção de contato com botões -->
-
 ![snake gif](https://github.com/JpMunhozOliveira/JpMunhozOliveira/blob/output/github-contribution-grid-snake.svg)
+
+<hr>
+
+### 📩Contact
+
+📧 If you'd like to get in touch, you can send me a message:
+
+<div>
+ <a href="https://www.linkedin.com/in/jpmunhozoliveira/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Link Linkedin" /></a>
+  <a href="https://jaoophez.itch.io/"><img src="https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white" alt="Link Itch.io" /></a>
+ <a href="mailto:jpmunhozoliveira@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Link Gmail" /></a>
+ <a href="#"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Link Instagram" /></a>
+ </div>
+
 
 <hr>
 
@@ -27,33 +37,43 @@ On my GitHub profile, you'll find some of the projects I've developed and the co
 
 ### 💻My Environment
 
-> Tools, languages, and other things that I like to work with.
+Tools, languages, and other things that I like to work with.
 
-<div align="center">
- <h3> Apps </h3>
+
+<a href="#"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JpMunhozOliveira&hide=ShaderLab,HLSL&theme=github_dark&hide_border=true&card_width=400" /></a>
+
+<div align="right">
+ <div align="left">
+ <h4> Apps </h4>
  <a href="#"><img src="resources/icons/tools/vscode/vscode-original.svg" alt="VS Code Logo" width="50" height="50"></a>
  <a href="#"><img src="resources/icons/tools/unity/unity.svg" alt="Unity Logo" width="50" height="50"></a>
- 
- <h3> Languages </h3>
+ <h4> Languages </h4>
  <a href="#"><img src="resources/icons/programming/csharp/csharp-original.svg" alt="C sharp" width="50" height="50"></a>
  <a href="#"><img src="resources/icons/programming/html5/html5-original.svg" alt="Html" width="50" height="50"></a>
  <a href="#"><img src="resources/icons/programming/css3/css3-original.svg" alt="Css" width="50" height="50"></a>
- 
+ <a href="#"><img src="resources/icons/programming/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"></a>
+ </div>
 </div>
 
 >Note: I'm easily adapting to new programming languages and environments, so they're not posing a major challenge for me 📖💡
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JpMunhozOliveira&hide=TeX&layout=compact)
+
 <hr>
 
 ### ⚡Projects
 
+Some of my projects.
+
 <div align="center">
  <table>
- <!------------------------Haeder Unity------------------------->
+  
+ <!------------------------Header Unity------------------------->
+  
   <tr>
-   <th colspan="3"> Unity </th>
+   <th colspan="4"> Unity </th>
   </tr>
+  
  <!-----------------------Projects Unity------------------------>
+  
   <tr>
    <td align="center" width="126">
       <a href="https://github.com/JpMunhozOliveira/Pong">
@@ -73,22 +93,60 @@ On my GitHub profile, you'll find some of the projects I've developed and the co
       </a>
       <br>Breakout
    </td>
+   <td align="center" width="126">
+      <a href="https://github.com/JpMunhozOliveira/Dark-Depths/blob/main/README.md">
+        <img src="resources/images/UnityProjects/" width="64" alt="Dark depths Icon" />
+      </a>
+      <br>Dark Depths
+   </td>
   </tr>
  </table>
 
-<table> 
+
+
+ 
 <!-----------------------Header HTML------------------------>
+<table>
  <tr>
    <th colspan="3"> HTML </th>
+ </tr>
+ <tr>
+   <td align="center" width="126">
+      <a href="https://github.com/JpMunhozOliveira/Snake-Html5-Js">
+        <img src="resources/images/" width="64" alt="Snake Icon" />
+      </a>
+      <br>Snake
+   </td>
  </tr>
 </table>
  
 </div>
-
-- [Dark Depths](https://github.com/JpMunhozOliveira/Dark-Depths/blob/main/README.md)
+ 
 <hr>
 
 ### 🏫Courses
 
-#### <a href="#"><img src="resources/icons/courses/freecodecamp/fcc_primary_small.svg" alt="C sharp" width="25" height="25"></a> freeCodeCamp
-- [Responsive Web Design](https://github.com/JpMunhozOliveira/Responsive-Web-Design/blob/main/README.md)
+Courses that I have already taken or am currently taking.
+
+<div align="center">
+ <table>
+  
+ <!------------------------Header------------------------->
+  
+  <tr>
+   <th colspan="1"><a href="#"><img src="resources/icons/courses/freecodecamp/fcc_primary_small.svg" width="25" height="25" align="center"></a> freeCodeCamp </th>
+  </tr>
+  
+ <!-----------------------Projects------------------------>
+  
+  <tr>
+   <td align="center" width="250">
+      <a href="https://github.com/JpMunhozOliveira/Responsive-Web-Design/blob/main/README.md">
+        <img src="resources/icons/courses/freecodecamp/Web_Development_Icon.png" width="86.22" height="67.32"/>
+      </a>
+      <br>Responsive Web Design
+   </td>
+  </tr>
+  
+ </table>
+</div>
