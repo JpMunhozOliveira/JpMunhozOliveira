@@ -72,7 +72,7 @@ Some of my projects.
  <!------------------------Header Unity------------------------->
   
   <tr>
-   <th colspan="3"> Unity </th>
+   <th colspan="4"> Unity </th>
   </tr>
   
  <!-----------------------Projects Unity------------------------>
@@ -85,16 +85,22 @@ Some of my projects.
       <br>Flappy Bird
    </td>
    <td align="center" width="126">
-      <a href="https://github.com/JpMunhozOliveira/Breakout">
+      <a href="https://github.com/JpMunhozOliveira/Breakout-Unity-Csharp">
         <img src="resources/images/UnityProjects/BreakoutIcon.png" width="64" alt="Breakout Icon" />
       </a>
       <br>Breakout
    </td>
    <td align="center" width="126">
-      <a href="https://github.com/JpMunhozOliveira/Dark-Depths/blob/main/README.md">
+      <a href="https://github.com/JpMunhozOliveira/Dark-Depths">
         <img src="resources/images/UnityProjects/DarkDepthsIcon.png" width="64" alt="Dark depths Icon" />
       </a>
       <br>Dark Depths
+   </td>
+   <td align="center" width="126">
+      <a href="https://github.com/JpMunhozOliveira/Minesweeper-Unity-Csharp">
+        <img src="resources/images/UnityProjects/MinesweeperIcon.png" width="64" alt="Minesweeper Icon" />
+      </a>
+      <br>Minesweeper
    </td>
   </tr>
  </table>
