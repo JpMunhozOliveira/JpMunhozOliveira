@@ -16,10 +16,9 @@ On my GitHub profile, you'll find some of the projects I've developed and the co
 📧 If you'd like to get in touch, you can send me a message:
 
 <div>
- <a href="https://www.linkedin.com/in/jpmunhozoliveira/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Link Linkedin" /></a>
-  <a href="https://jaoophez.itch.io/"><img src="https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white" alt="Link Itch.io" /></a>
- <a href="mailto:jpmunhozoliveira@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Link Gmail" /></a>
- <a href="#"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Link Instagram" /></a>
+ <a href="https://www.linkedin.com/in/jpmunhozoliveira/"><img src="resources/icons/contacts/linkedIn.png" alt="Link LinkedIn" width="64"/></a>
+ <a href="https://jaoophez.itch.io/"><img src="resources/icons/contacts/itchio.png" alt="Link Itch.io" width="64"/></a>
+ <a href="mailto:jpmunhozoliveira@gmail.com"><img src="resources/icons/contacts/gmail.png" alt="Link Gmail" width="64"/></a>
  </div>
 
 
@@ -79,12 +78,6 @@ Some of my projects.
   
   <tr>
    <td align="center" width="126">
-      <a href="https://github.com/JpMunhozOliveira/Flappy-Bird">
-        <img src="resources/images/UnityProjects/FlappyIcon.png" width="64" alt="Flappy Bird Icon" />
-      </a>
-      <br>Flappy Bird
-   </td>
-   <td align="center" width="126">
       <a href="https://github.com/JpMunhozOliveira/Breakout-Unity-Csharp">
         <img src="resources/images/UnityProjects/BreakoutIcon.png" width="64" alt="Breakout Icon" />
       </a>
@@ -95,6 +88,12 @@ Some of my projects.
         <img src="resources/images/UnityProjects/DarkDepthsIcon.png" width="64" alt="Dark depths Icon" />
       </a>
       <br>Dark Depths
+   </td>
+   <td align="center" width="126">
+      <a href="https://github.com/JpMunhozOliveira/Flappy-Bird">
+        <img src="resources/images/UnityProjects/FlappyIcon.png" width="64" alt="Flappy Bird Icon" />
+      </a>
+      <br>Flappy Bird
    </td>
    <td align="center" width="126">
       <a href="https://github.com/JpMunhozOliveira/Minesweeper-Unity-Csharp">
