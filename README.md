@@ -11,14 +11,14 @@ On my GitHub profile, you'll find some of the projects I've developed and the co
 
 <hr>
 
-### 📩Contact
+### 📩Links
 
 📧 If you'd like to get in touch, you can send me a message:
 
 <div>
- <a href="https://www.linkedin.com/in/jpmunhozoliveira/"><img src="resources/icons/contacts/linkedIn.png" alt="Link LinkedIn" width="64"/></a>
- <a href="https://jaoophez.itch.io/"><img src="resources/icons/contacts/itchio.png" alt="Link Itch.io" width="64"/></a>
- <a href="mailto:jpmunhozoliveira@gmail.com"><img src="resources/icons/contacts/gmail.png" alt="Link Gmail" width="64"/></a>
+ <a href="https://www.linkedin.com/in/jpmunhozoliveira/"><img src="resources/icons/contacts/linkedIn.png" alt="Link LinkedIn" height="64"/></a>
+ <a href="https://jaoophez.itch.io/"><img src="resources/icons/contacts/itchio.png" alt="Link Itch.io" height="64"/></a>
+ <a href="mailto:jpmunhozoliveira@gmail.com"><img src="resources/icons/contacts/gmail.png" alt="Link Gmail" height="64"/></a>
  </div>
 
 
