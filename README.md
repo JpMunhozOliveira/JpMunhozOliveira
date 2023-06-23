@@ -71,24 +71,34 @@ Some of my projects.
  <!------------------------Header Unity------------------------->
   
   <tr>
-   <th colspan="4"> Unity </th>
+   <th colspan="5"> Unity </th>
+  </tr>
+
+  <tr>
+   <th colspan="1">My games</th>
+   <th></th>
+   <th colspan="3">Other Projects</th>
   </tr>
   
  <!-----------------------Projects Unity------------------------>
   
   <tr>
+    <td align="center" width="126">
+      <a href="https://github.com/JpMunhozOliveira/Dark-Depths">
+        <img src="resources/images/UnityProjects/DarkDepthsIcon.png" width="64" alt="Dark depths Icon" />
+      </a>
+      <br>Dark Depths
+   </td>
+
+   <td></td>
+   
    <td align="center" width="126">
       <a href="https://github.com/JpMunhozOliveira/Breakout-Unity-Csharp">
         <img src="resources/images/UnityProjects/BreakoutIcon.png" width="64" alt="Breakout Icon" />
       </a>
       <br>Breakout
    </td>
-   <td align="center" width="126">
-      <a href="https://github.com/JpMunhozOliveira/Dark-Depths">
-        <img src="resources/images/UnityProjects/DarkDepthsIcon.png" width="64" alt="Dark depths Icon" />
-      </a>
-      <br>Dark Depths
-   </td>
+  
    <td align="center" width="126">
       <a href="https://github.com/JpMunhozOliveira/Flappy-Bird">
         <img src="resources/images/UnityProjects/FlappyIcon.png" width="64" alt="Flappy Bird Icon" />
