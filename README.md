@@ -76,7 +76,7 @@ Some of my projects.
 
   <tr>
    <th colspan="1">My games</th>
-   <th></th>
+
    <th colspan="3">Other Projects</th>
   </tr>
   
@@ -90,7 +90,6 @@ Some of my projects.
       <br>Dark Depths
    </td>
 
-   <td></td>
    
    <td align="center" width="126">
       <a href="https://github.com/JpMunhozOliveira/Breakout-Unity-Csharp">
