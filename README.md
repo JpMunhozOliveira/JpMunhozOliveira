@@ -8,7 +8,6 @@
 On my GitHub profile, you'll find some of the projects I've developed and the contributions I've made to open-source projects. Feel free to explore and add your own comments and suggestions! 🙌🏼
 
 ![snake gif](https://github.com/JpMunhozOliveira/JpMunhozOliveira/blob/output/github-contribution-grid-snake.svg)
-
 <hr>
 
 ### 📩Links
@@ -20,17 +19,6 @@ On my GitHub profile, you'll find some of the projects I've developed and the co
  <a href="https://jaoophez.itch.io/"><img src="resources/icons/contacts/itchio.png" alt="Link Itch.io" height="64"/></a>
  <a href="mailto:jpmunhozoliveira@gmail.com"><img src="resources/icons/contacts/gmail.png" alt="Link Gmail" height="64"/></a>
  </div>
-
-
-<hr>
-
-### 🔭I’m currently ...
-
-💼 looking for a job that can help me improve my skills and develop new competencies. I hope to find a challenging and stimulating opportunity where I can apply my previous experience and learn from new challenges. 📚🌟
-
-### 🌱I’m currently learning ...
-
-🎮🕹️ design patterns to enhance the creation of my games. Having knowledge of design patterns is crucial for developing reusable and scalable solutions, ultimately making the development process more efficient and easier to maintain. 💡📚
 
 <hr>
 
@@ -85,7 +73,10 @@ Some of my projects.
   <tr>
     <td align="center" width="126">
       <a href="https://github.com/JpMunhozOliveira/Dark-Depths">
-        <img src="resources/images/UnityProjects/DarkDepthsIcon.png" width="64" alt="Dark depths Icon" />
+       <picture>
+         <source media="(prefers-color-scheme: dark)" srcset="resources/images/Projects/DarkDepthsIconDark.png">
+         <img src="resources/images/Projects/DarkDepthsIconLight.png" width="64" alt="Dark depths Icon">
+       </picture>
       </a>
       <br>Dark Depths
    </td>
