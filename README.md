@@ -74,8 +74,8 @@ Some of my projects.
     <td align="center" width="126">
       <a href="https://github.com/JpMunhozOliveira/Dark-Depths">
        <picture>
-         <source media="(prefers-color-scheme: dark)" srcset="resources/images/Projects/DarkDepthsIconDark.png">
-         <img src="resources/images/Projects/DarkDepthsIconLight.png" width="64" alt="Dark depths Icon">
+         <source media="(prefers-color-scheme: dark)" srcset="resources/images/Projects/DarkDepthsIconLight.png">
+         <img src="resources/images/Projects/DarkDepthsIconDark.png" width="64" alt="Dark depths Icon">
        </picture>
       </a>
       <br>Dark Depths
