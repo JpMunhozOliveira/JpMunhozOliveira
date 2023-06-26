@@ -27,7 +27,7 @@ On my GitHub profile, you'll find some of the projects I've developed and the co
 Tools, languages, and other things that I like to work with.
 
 
-<a href="#"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JpMunhozOliveira&hide=ShaderLab,HLSL&theme=github_dark&hide_border=true&card_width=400" /></a>
+<a href="#"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JpMunhozOliveira&hide=ShaderLab,HLSL&theme=transparent&hide_border=true&card_width=400" /></a>
 
 <div align="right">
  <div align="left">
@@ -71,7 +71,7 @@ Some of my projects.
  <!-----------------------Projects Unity------------------------>
   
   <tr>
-    <td align="center" width="126">
+    <td align="center" width="126" height="150">
       <a href="https://github.com/JpMunhozOliveira/Dark-Depths">
        <picture>
          <source media="(prefers-color-scheme: dark)" srcset="resources/images/Projects/DarkDepthsIconLight.png">
@@ -81,23 +81,34 @@ Some of my projects.
       <br>Dark Depths
    </td>
 
+
    
    <td align="center" width="126">
       <a href="https://github.com/JpMunhozOliveira/Breakout-Unity-Csharp">
-        <img src="resources/images/UnityProjects/BreakoutIcon.png" width="64" alt="Breakout Icon" />
+       <picture>
+         <source media="(prefers-color-scheme: dark)" srcset="resources/images/Projects/BreakoutIconLight.png">
+         <img src="resources/images/Projects/BreakoutIconDark.png" width="64" alt="Breakout Icon">
+       </picture>
       </a>
       <br>Breakout
    </td>
   
    <td align="center" width="126">
       <a href="https://github.com/JpMunhozOliveira/Flappy-Bird">
-        <img src="resources/images/UnityProjects/FlappyIcon.png" width="64" alt="Flappy Bird Icon" />
+       <picture>
+         <source media="(prefers-color-scheme: dark)" srcset="resources/images/Projects/FlappyIconLight.png">
+         <img src="resources/images/Projects/FlappyIconDark.png" width="64" alt="Flappy Bird Icon">
+       </picture>
       </a>
       <br>Flappy Bird
    </td>
+   
    <td align="center" width="126">
       <a href="https://github.com/JpMunhozOliveira/Minesweeper-Unity-Csharp">
-        <img src="resources/images/UnityProjects/MinesweeperIcon.png" width="64" alt="Minesweeper Icon" />
+       <picture>
+         <source media="(prefers-color-scheme: dark)" srcset="resources/images/Projects/MinesweeperIconLight.png">
+         <img src="resources/images/Projects/MinesweeperIconDark.png" width="64" alt="Minesweeper Icon">
+       </picture>
       </a>
       <br>Minesweeper
    </td>
@@ -113,14 +124,20 @@ Some of my projects.
   
   <td align="center" width="126">
       <a href="https://github.com/JpMunhozOliveira/Pong-Html5-Js">
-        <img src="resources/images/HtmlProjects/PongIcon.png" width="64" alt="Pong Icon" />
+       <picture>
+         <source media="(prefers-color-scheme: dark)" srcset="resources/images/Projects/PongIconLight.png">
+         <img src="resources/images/Projects/PongIconDark.png" width="64" alt="Pong Icon">
+       </picture>
       </a>
       <br>Pong
    </td>
   
    <td align="center" width="126">
       <a href="https://github.com/JpMunhozOliveira/Snake-Html5-Js">
-        <img src="resources/images/HtmlProjects/SnakeIcon.png" width="64" alt="Snake Icon" />
+       <picture>
+         <source media="(prefers-color-scheme: dark)" srcset="resources/images/Projects/SnakeIconLight.png">
+         <img src="resources/images/Projects/SnakeIconDark.png" width="64" alt="Snake Icon">
+       </picture>
       </a>
       <br>Snake
    </td>
@@ -150,7 +167,10 @@ Courses that I have already taken or am currently taking.
   <tr>
    <td align="center" width="250">
       <a href="https://github.com/JpMunhozOliveira/Responsive-Web-Design/blob/main/README.md">
-        <img src="resources/icons/courses/freecodecamp/Web_Development_Icon.png" width="86.22" height="67.32"/>
+       <picture>
+         <source media="(prefers-color-scheme: dark)" srcset="resources/icons/courses/freecodecamp/Web_Development_Icon_Light.png">
+         <img src="resources/icons/courses/freecodecamp/Web_Development_Icon_Dark.png" width="86.22">
+       </picture>
       </a>
       <br>Responsive Web Design
    </td>
