@@ -71,7 +71,7 @@ Some of my projects.
  <!-----------------------Projects Unity------------------------>
   
   <tr>
-    <td align="center" width="126" height="150">
+    <td align="center" width="126">
       <a href="https://github.com/JpMunhozOliveira/Dark-Depths">
        <picture>
          <source media="(prefers-color-scheme: dark)" srcset="resources/images/Projects/DarkDepthsIconLight.png">
