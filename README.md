@@ -7,7 +7,6 @@
 
 On my GitHub profile, you'll find some of the projects I've developed and the contributions I've made to open-source projects. Feel free to explore and add your own comments and suggestions! 🙌🏼
 
-![snake gif](https://github.com/JpMunhozOliveira/JpMunhozOliveira/blob/output/github-contribution-grid-snake.svg)
 <hr>
 
 ### 📩Links
