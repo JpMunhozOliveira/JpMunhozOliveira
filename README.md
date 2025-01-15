@@ -155,7 +155,8 @@ Courses that I have already taken or am currently taking.
  <!------------------------Header------------------------->
   
   <tr>
-   <th colspan="1"><a href="#"><img src="resources/icons/courses/freecodecamp/fcc_primary_small.svg" width="25" height="25" align="center"></a> freeCodeCamp </th>
+    <th colspan="1"><a href="#"><img src="resources/icons/courses/freecodecamp/fcc_primary_small.svg" width="25" height="25" align="center"></a> freeCodeCamp </th>
+    <th colspan="1"><a href="#"><img src="resources/icons/courses/" width="25" height="25" align="center"></a> EBAC </th>
   </tr>
   
  <!-----------------------Projects------------------------>
@@ -170,6 +171,15 @@ Courses that I have already taken or am currently taking.
       </a>
       <br>Responsive Web Design
    </td>
+   <td align="center" width="250">
+     <a href="https://github.com/JpMunhozOliveira/Responsive-Web-Design/blob/main/README.md">
+       <picture>
+         <source media="(prefers-color-scheme: dark)" srcset="resources/icons/courses/freecodecamp/Web_Development_Icon_Light.png">
+         <img src="resources/icons/courses/freecodecamp/Web_Development_Icon_Dark.png" width="86.22">
+       </picture>
+      </a>
+      <br>Engenheiro de Qualidade de Softawe
+  </td>
   </tr>
   
  </table>
