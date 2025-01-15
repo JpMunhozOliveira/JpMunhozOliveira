@@ -174,11 +174,11 @@ Courses that I have already taken or am currently taking.
    <td align="center" width="250">
      <a href="https://github.com/JpMunhozOliveira/Responsive-Web-Design/blob/main/README.md">
        <picture>
-         <source media="(prefers-color-scheme: dark)" srcset="resources/icons/courses/freecodecamp/Web_Development_Icon_Light.png">
-         <img src="resources/icons/courses/freecodecamp/Web_Development_Icon_Dark.png" width="86.22">
+         <source media="(prefers-color-scheme: dark)" srcset="resources/icons/courses/">
+         <img src="resources/icons/courses/" width="86.22">
        </picture>
       </a>
-      <br>Engenheiro de Qualidade de Softawe
+      <br>Engenheiro de Qualidade de Software
   </td>
   </tr>
   
