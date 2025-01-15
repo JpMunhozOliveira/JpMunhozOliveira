@@ -1,9 +1,8 @@
 ### 👋Hi there, I'm João Pedro
 
-- Unity game developer 🎮
-- Front-end developer (in progress)🌐
+- Game developer 🎮
 
- I absolutely love taking on creative and challenging projects that help me learn new things and hone my programming skills. 💪🏼💻🚀
+I absolutely love taking on creative and challenging projects that help me learn new things and hone my programming skills. 💪🏼💻🚀
 
 On my GitHub profile, you'll find some of the projects I've developed and the contributions I've made to open-source projects. Feel free to explore and add your own comments and suggestions! 🙌🏼
 
@@ -79,8 +78,6 @@ Some of my projects.
       </a>
       <br>Dark Depths
    </td>
-
-
    
    <td align="center" width="126">
       <a href="https://github.com/JpMunhozOliveira/Breakout-Unity-Csharp">
