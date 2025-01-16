@@ -156,7 +156,7 @@ Courses that I have already taken or am currently taking.
   
   <tr>
     <th colspan="1"><a href="#"><img src="resources/icons/courses/freecodecamp/fcc_primary_small.svg" width="25" height="25" align="center"></a> freeCodeCamp </th>
-    <th colspan="1"><a href="#"><img src="resources/icons/courses/" width="25" height="25" align="center"></a> EBAC </th>
+    <th colspan="1"><a href="#"><img src="resources/icons/courses/EBAC/Logo.png" width="25" height="25" align="center"></a> EBAC </th>
   </tr>
   
  <!-----------------------Projects------------------------>
@@ -172,13 +172,13 @@ Courses that I have already taken or am currently taking.
       <br>Responsive Web Design
    </td>
    <td align="center" width="250">
-     <a href="https://github.com/JpMunhozOliveira/Responsive-Web-Design/blob/main/README.md">
+     <a href="https://github.com/JpMunhozOliveira/QA-EBAC/blob/main/README.md">
        <picture>
-         <source media="(prefers-color-scheme: dark)" srcset="resources/icons/courses/">
-         <img src="resources/icons/courses/" width="86.22">
+         <source media="(prefers-color-scheme: dark)" srcset="resources/icons/courses/EBAC/QAE_Icon_Light.png">
+         <img src="resources/icons/courses/EBAC/QAE_Icon_Dark.png" width="86.22">
        </picture>
       </a>
-      <br>Engenheiro de Qualidade de Software
+      <br>Software Quality Engineer
   </td>
   </tr>
   
