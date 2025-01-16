@@ -57,7 +57,7 @@ Some of my projects.
  <!------------------------Header Unity------------------------->
   
   <tr>
-   <th colspan="5"> Unity </th>
+   <th colspan="5"><img src="resources\icons\tools\unity\unity.svg?raw=true" width="35" height="35" align="center"></th>
   </tr>
 
   <tr>
@@ -114,7 +114,7 @@ Some of my projects.
 <!-----------------------Header HTML------------------------>
 <table>
  <tr>
-   <th colspan="3"> HTML </th>
+   <th colspan="3"><img src="\resources\icons\programming\html5\html5-original.svg?raw=true" width="35" height="35" align="center"></th>
  </tr>
  <tr>
   
