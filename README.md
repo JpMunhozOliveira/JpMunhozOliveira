@@ -155,8 +155,8 @@ Courses that I have already taken or am currently taking.
  <!------------------------Header------------------------->
   
   <tr>
-    <th colspan="1"><a href="#"><img src="resources/icons/courses/freecodecamp/fcc_primary_small.svg" width="25" height="25" align="center"></a> freeCodeCamp </th>
-    <th colspan="1"><a href="#"><img src="resources/icons/courses/EBAC/Logo.png" width="25" height="25" align="center"></a> EBAC </th>
+    <th colspan="1"><img src="resources/icons/courses/freecodecamp/fcc_primary_small.svg?raw=true" width="35" height="35" align="center"></th>
+    <th colspan="1"><img src="resources/icons/courses/EBAC/Logo.png?raw=true" width="35" height="35" align="center"></th>
   </tr>
   
  <!-----------------------Projects------------------------>
