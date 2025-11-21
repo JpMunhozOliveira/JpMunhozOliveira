@@ -1,7 +1,7 @@
 <div align="center">
 	<a href="#" target="_blank">
     	<h2>
-      	👋 VISIT MY SITE — COMING SOON
+      	VISIT MY SITE — COMING SOON
     	</h2>
   	</a>
 	<!--Ferramentas-->
@@ -12,8 +12,8 @@
 	<h1>Projects</h1>
  	<table>
 		<tr>
-			<th colspan="4"><a href="#"><img src="https://skillicons.dev/icons?i=unity" /></a></th>
-			<th colspan="2"><a href="#"><img src="https://skillicons.dev/icons?i=html" /></a></th>
+			<th colspan="4"><a href="#"><img src="https://skillicons.dev/icons?i=unity" height="35"/></a></th>
+			<th colspan="2"><a href="#"><img src="https://skillicons.dev/icons?i=html" height="35"/></a></th>
 	  	</tr>
   		<tr>
     		<td align="center" width="126">
@@ -76,9 +76,9 @@
 	<h1>Courses</h1>
  	<table>
   		<tr>
-    		<th colspan="1"><a href="#"><img src="resources/icons/courses/freecodecamp/fcc_primary_small.svg?raw=true" width="35" height="35" align="center"></a></th>
-    		<th colspan="1"><a href="#"><img src="https://cdn.brandfetch.io/id4mwsmOSj/w/704/h/704/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" width="35" height="35" align="center"></a></th>
-			<th colspan="1"><a href="#"><img src="https://cdn.brandfetch.io/idegDUt3y6/w/400/h/400/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" width="35" height="35" align="center"></a></th>
+    		<th><a href="#"><img src="resources/icons/courses/freecodecamp/fcc_primary_small.svg?raw=true" height="35"></a></th>
+    		<th><a href="#"><img src="https://cdn.brandfetch.io/id4mwsmOSj/w/704/h/704/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" height="35"></a></th>
+			<th><a href="#"><img src="https://cdn.brandfetch.io/idegDUt3y6/w/400/h/400/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" height="35"></a></th>
   		</tr>
   		<tr>
    			<td align="center" width="250">
@@ -102,8 +102,7 @@
 			<td align="center" width="250">
      			<a href="https://github.com/JpMunhozOliveira/10-Imersao-Dev-Alura/blob/main/README.md">
        				<picture>
-         				<source media="(prefers-color-scheme: dark)" srcset="">
-         				<img src="" width="86.22">
+         				<img src="https://cdn1.gnarususercontent.com.br/1/7252823/cef5d3f3-981e-4555-8a5e-3c0d7dbd5e67.png">
        				</picture>
       			</a>
       			<br>10º Imersão Dev
