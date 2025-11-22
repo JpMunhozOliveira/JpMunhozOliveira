@@ -6,7 +6,7 @@
   	</a>
 	<!--Ferramentas-->
 	<a href="#">
-  		<img src="https://skillicons.dev/icons?i=vscode,github,unity,html,css,js,cs" />
+  		<img src="https://skills.syvixor.com/api/icons?perline=15&i=visualstudiocode,unity,html,css3,javascript,csharp" />
 	</a>
 	<!--Projetos-->
 	<h1>Projects</h1>
