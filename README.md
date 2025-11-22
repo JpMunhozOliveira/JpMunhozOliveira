@@ -100,7 +100,7 @@
       			<br>Software Quality Engineer
   			</td>
 			<td align="center" width="250">
-     			<a href="https://github.com/JpMunhozOliveira/10-Imersao-Dev-Alura/blob/main/README.md">
+     			<a href="https://github.com/JpMunhozOliveira/Imersao-Dev-10">
        				<picture>
          				<img src="https://cdn1.gnarususercontent.com.br/1/7252823/cef5d3f3-981e-4555-8a5e-3c0d7dbd5e67.png">
        				</picture>
