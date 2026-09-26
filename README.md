@@ -6,71 +6,129 @@
   	</a>
 	<!--Ferramentas-->
 	<a href="#">
-  		<img src="https://skills.syvixor.com/api/icons?perline=15&i=visualstudiocode,unity,html,css3,javascript,csharp" />
+  		<img src="https://skills.syvixor.com/api/icons?perline=15&i=visualstudiocode,unity,godot,html,css3,javascript,csharp,python,docker" />
 	</a>
-	<!--Projetos-->
-	<h1>Projects</h1>
- 	<table>
+	<!--Jogos-->
+	<h1>🎮 Jogos</h1>
+	<table>
 		<tr>
-			<th colspan="4"><a href="#"><img src="https://skillicons.dev/icons?i=unity" height="35"/></a></th>
-			<th colspan="2"><a href="#"><img src="https://skillicons.dev/icons?i=html" height="35"/></a></th>
-	  	</tr>
-  		<tr>
-    		<td align="center" width="126">
-      			<a href="https://github.com/JpMunhozOliveira/Dark-Depths">
-       				<picture>
-         				<source media="(prefers-color-scheme: dark)" srcset="resources/images/Projects/DarkDepthsIconLight.png">
-         				<img src="resources/images/Projects/DarkDepthsIconDark.png" width="64" alt="Dark depths Icon">
-       				</picture>
-      			</a>
-      			<br>Dark Depths
-   			</td>
-  			<td align="center" width="126">
-     			<a href="https://github.com/JpMunhozOliveira/Breakout-Unity-Csharp">
-	       			<picture>
-         				<source media="(prefers-color-scheme: dark)" srcset="resources/images/Projects/BreakoutIconLight.png">
-         				<img src="resources/images/Projects/BreakoutIconDark.png" width="64" alt="Breakout Icon">
-       				</picture>
-      			</a>
-      			<br>Breakout
-   			</td>
-   			<td align="center" width="126">
-      			<a href="https://github.com/JpMunhozOliveira/Flappy-Bird">
-       				<picture>
-         				<source media="(prefers-color-scheme: dark)" srcset="resources/images/Projects/FlappyIconLight.png">
-         				<img src="resources/images/Projects/FlappyIconDark.png" width="64" alt="Flappy Bird Icon">
-       				</picture>
-      			</a>
-      			<br>Flappy Bird
-   			</td>
-   			<td align="center" width="126">
-      			<a href="https://github.com/JpMunhozOliveira/Minesweeper-Unity-Csharp">
-       				<picture>
-        				<source media="(prefers-color-scheme: dark)" srcset="resources/images/Projects/MinesweeperIconLight.png">
-         				<img src="resources/images/Projects/MinesweeperIconDark.png" width="64" alt="Minesweeper Icon">
-       				</picture>
-      			</a>
-      			<br>Minesweeper
-   			</td>
-   			<td align="center" width="126">
-				<a href="https://github.com/JpMunhozOliveira/Pong-Html5-Js">
-       				<picture>
-         				<source media="(prefers-color-scheme: dark)" srcset="resources/images/Projects/PongIconLight.png">
-         				<img src="resources/images/Projects/PongIconDark.png" width="64" alt="Pong Icon">
-       				</picture>
+			<th align="center" width="90">Ícone</th>
+			<th align="left">Projeto</th>
+			<th align="center" width="110">Engine</th>
+			<th align="center" width="110">Status</th>
+		</tr>
+		<tr>
+			<td align="center">
+				<a href="https://github.com/JpMunhozOliveira/Dark-Depths">
+					<picture>
+						<source media="(prefers-color-scheme: dark)" srcset="resources/images/Projects/DarkDepthsIconLight.png">
+						<img src="resources/images/Projects/DarkDepthsIconDark.png" width="48" alt="Dark Depths Icon">
+					</picture>
 				</a>
-      			<br>Pong
-   			</td>
-   			<td align="center" width="126">
-      			<a href="https://github.com/JpMunhozOliveira/Snake-Html5-Js">
-       				<picture>
-         				<source media="(prefers-color-scheme: dark)" srcset="resources/images/Projects/SnakeIconLight.png">
-         				<img src="resources/images/Projects/SnakeIconDark.png" width="64" alt="Snake Icon">
-       				</picture>
-      			</a>
-      			<br>Snake
-   			</td>  
-  		</tr>
+			</td>
+			<td align="left"><a href="https://github.com/JpMunhozOliveira/Dark-Depths">Dark Depths</a></td>
+			<td align="center"><img src="https://skillicons.dev/icons?i=unity" height="24"/></td>
+			<td align="center">✅ Concluído</td>
+		</tr>
+		<tr>
+			<td align="center">
+				<a href="https://github.com/JpMunhozOliveira/Breakout-Unity-Csharp">
+					<picture>
+						<source media="(prefers-color-scheme: dark)" srcset="resources/images/Projects/BreakoutIconLight.png">
+						<img src="resources/images/Projects/BreakoutIconDark.png" width="48" alt="Breakout Icon">
+					</picture>
+				</a>
+			</td>
+			<td align="left"><a href="https://github.com/JpMunhozOliveira/Breakout-Unity-Csharp">Breakout</a></td>
+			<td align="center"><img src="https://skillicons.dev/icons?i=unity" height="24"/></td>
+			<td align="center">✅ Concluído</td>
+		</tr>
+		<tr>
+			<td align="center">
+				<a href="https://github.com/JpMunhozOliveira/Flappy-Bird">
+					<picture>
+						<source media="(prefers-color-scheme: dark)" srcset="resources/images/Projects/FlappyIconLight.png">
+						<img src="resources/images/Projects/FlappyIconDark.png" width="48" alt="Flappy Bird Icon">
+					</picture>
+				</a>
+			</td>
+			<td align="left"><a href="https://github.com/JpMunhozOliveira/Flappy-Bird">Flappy Bird</a></td>
+			<td align="center"><img src="https://skillicons.dev/icons?i=unity" height="24"/></td>
+			<td align="center">✅ Concluído</td>
+		</tr>
+		<tr>
+			<td align="center">
+				<a href="https://github.com/JpMunhozOliveira/Minesweeper-Unity-Csharp">
+					<picture>
+						<source media="(prefers-color-scheme: dark)" srcset="resources/images/Projects/MinesweeperIconLight.png">
+						<img src="resources/images/Projects/MinesweeperIconDark.png" width="48" alt="Minesweeper Icon">
+					</picture>
+				</a>
+			</td>
+			<td align="left"><a href="https://github.com/JpMunhozOliveira/Minesweeper-Unity-Csharp">Minesweeper</a></td>
+			<td align="center"><img src="https://skillicons.dev/icons?i=unity" height="24"/></td>
+			<td align="center">✅ Concluído</td>
+		</tr>
+		<tr>
+			<td align="center">
+				<a href="https://github.com/JpMunhozOliveira/Pong-Html5-Js">
+					<picture>
+						<source media="(prefers-color-scheme: dark)" srcset="resources/images/Projects/PongIconLight.png">
+						<img src="resources/images/Projects/PongIconDark.png" width="48" alt="Pong Icon">
+					</picture>
+				</a>
+			</td>
+			<td align="left"><a href="https://github.com/JpMunhozOliveira/Pong-Html5-Js">Pong</a></td>
+			<td align="center"><img src="https://skillicons.dev/icons?i=html" height="24"/></td>
+			<td align="center">✅ Concluído</td>
+		</tr>
+		<tr>
+			<td align="center">
+				<a href="https://github.com/JpMunhozOliveira/Snake-Html5-Js">
+					<picture>
+						<source media="(prefers-color-scheme: dark)" srcset="resources/images/Projects/SnakeIconLight.png">
+						<img src="resources/images/Projects/SnakeIconDark.png" width="48" alt="Snake Icon">
+					</picture>
+				</a>
+			</td>
+			<td align="left"><a href="https://github.com/JpMunhozOliveira/Snake-Html5-Js">Snake</a></td>
+			<td align="center"><img src="https://skillicons.dev/icons?i=html" height="24"/></td>
+			<td align="center">✅ Concluído</td>
+		</tr>
+		<tr>
+			<td align="center">
+				<img src="https://skillicons.dev/icons?i=godot" width="40" alt="Bomberman Godot Icon">
+			</td>
+			<td align="left">Bomberman <sub>(repositório privado — link a adicionar)</sub></td>
+			<td align="center"><img src="https://skillicons.dev/icons?i=godot" height="24"/></td>
+			<td align="center">🚧 Em desenvolvimento</td>
+		</tr>
+	</table>
+	<!--Projetos-->
+	<h1>🛠️ Projetos</h1>
+	<table>
+		<tr>
+			<th align="center" width="90">Ícone</th>
+			<th align="left">Projeto</th>
+			<th align="center" width="110">Stack</th>
+			<th align="center" width="110">Status</th>
+		</tr>
+		<tr>
+			<td align="center">
+				<img src="https://skillicons.dev/icons?i=python" width="40" alt="Detecção de Pessoas Icon">
+			</td>
+			<td align="left"><a href="#">Sistema de Detecção de Pessoas via Câmera</a> <sub>(link a adicionar)</sub></td>
+			<td align="center"><img src="https://skillicons.dev/icons?i=python,opencv,docker" height="24"/></td>
+			<td align="center">✅ Concluído</td>
+		</tr>
+		<tr>
+			<td align="center">
+				<img src="https://skillicons.dev/icons?i=python" width="40" alt="Estoque IA Icon">
+			</td>
+			<td align="left">Estoque-IA <sub>(repositório privado — link a adicionar)</sub></td>
+			<td align="center"><img src="https://skillicons.dev/icons?i=python,docker" height="24"/></td>
+			<td align="center">🚧 Em desenvolvimento</td>
+		</tr>
 	</table>
 	<!---Cursos--->
 	<h1>Courses</h1>
