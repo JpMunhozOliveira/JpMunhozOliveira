@@ -32,71 +32,6 @@
 		</tr>
 		<tr>
 			<td align="center">
-				<a href="https://github.com/JpMunhozOliveira/Breakout-Unity-Csharp">
-					<picture>
-						<source media="(prefers-color-scheme: dark)" srcset="resources/images/Projects/BreakoutIconLight.png">
-						<img src="resources/images/Projects/BreakoutIconDark.png" width="48" alt="Breakout Icon">
-					</picture>
-				</a>
-			</td>
-			<td align="left"><a href="https://github.com/JpMunhozOliveira/Breakout-Unity-Csharp">Breakout</a></td>
-			<td align="center"><img src="https://skillicons.dev/icons?i=unity" height="24"/></td>
-			<td align="center">✅ Concluído</td>
-		</tr>
-		<tr>
-			<td align="center">
-				<a href="https://github.com/JpMunhozOliveira/Flappy-Bird">
-					<picture>
-						<source media="(prefers-color-scheme: dark)" srcset="resources/images/Projects/FlappyIconLight.png">
-						<img src="resources/images/Projects/FlappyIconDark.png" width="48" alt="Flappy Bird Icon">
-					</picture>
-				</a>
-			</td>
-			<td align="left"><a href="https://github.com/JpMunhozOliveira/Flappy-Bird">Flappy Bird</a></td>
-			<td align="center"><img src="https://skillicons.dev/icons?i=unity" height="24"/></td>
-			<td align="center">✅ Concluído</td>
-		</tr>
-		<tr>
-			<td align="center">
-				<a href="https://github.com/JpMunhozOliveira/Minesweeper-Unity-Csharp">
-					<picture>
-						<source media="(prefers-color-scheme: dark)" srcset="resources/images/Projects/MinesweeperIconLight.png">
-						<img src="resources/images/Projects/MinesweeperIconDark.png" width="48" alt="Minesweeper Icon">
-					</picture>
-				</a>
-			</td>
-			<td align="left"><a href="https://github.com/JpMunhozOliveira/Minesweeper-Unity-Csharp">Minesweeper</a></td>
-			<td align="center"><img src="https://skillicons.dev/icons?i=unity" height="24"/></td>
-			<td align="center">✅ Concluído</td>
-		</tr>
-		<tr>
-			<td align="center">
-				<a href="https://github.com/JpMunhozOliveira/Pong-Html5-Js">
-					<picture>
-						<source media="(prefers-color-scheme: dark)" srcset="resources/images/Projects/PongIconLight.png">
-						<img src="resources/images/Projects/PongIconDark.png" width="48" alt="Pong Icon">
-					</picture>
-				</a>
-			</td>
-			<td align="left"><a href="https://github.com/JpMunhozOliveira/Pong-Html5-Js">Pong</a></td>
-			<td align="center"><img src="https://skillicons.dev/icons?i=html" height="24"/></td>
-			<td align="center">✅ Concluído</td>
-		</tr>
-		<tr>
-			<td align="center">
-				<a href="https://github.com/JpMunhozOliveira/Snake-Html5-Js">
-					<picture>
-						<source media="(prefers-color-scheme: dark)" srcset="resources/images/Projects/SnakeIconLight.png">
-						<img src="resources/images/Projects/SnakeIconDark.png" width="48" alt="Snake Icon">
-					</picture>
-				</a>
-			</td>
-			<td align="left"><a href="https://github.com/JpMunhozOliveira/Snake-Html5-Js">Snake</a></td>
-			<td align="center"><img src="https://skillicons.dev/icons?i=html" height="24"/></td>
-			<td align="center">✅ Concluído</td>
-		</tr>
-		<tr>
-			<td align="center">
 				<img src="https://skillicons.dev/icons?i=godot" width="40" alt="Bomberman Godot Icon">
 			</td>
 			<td align="left">Bomberman <sub>(repositório privado — link a adicionar)</sub></td>
@@ -167,4 +102,77 @@
   			</td>
   		</tr>
 	</table>
+	<!--Estudos e Clones-->
+	<h1>📚 Estudos e Clones</h1>
+	<details>
+		<summary>Ver projetos de aprendizado (clones de jogos clássicos)</summary>
+		<br>
+		<table>
+			<tr>
+				<th align="center" width="90">Ícone</th>
+				<th align="left">Projeto</th>
+				<th align="center" width="110">Engine</th>
+			</tr>
+			<tr>
+				<td align="center">
+					<a href="https://github.com/JpMunhozOliveira/Breakout-Unity-Csharp">
+						<picture>
+							<source media="(prefers-color-scheme: dark)" srcset="resources/images/Projects/BreakoutIconLight.png">
+							<img src="resources/images/Projects/BreakoutIconDark.png" width="48" alt="Breakout Icon">
+						</picture>
+					</a>
+				</td>
+				<td align="left"><a href="https://github.com/JpMunhozOliveira/Breakout-Unity-Csharp">Breakout</a></td>
+				<td align="center"><img src="https://skillicons.dev/icons?i=unity" height="24"/></td>
+			</tr>
+			<tr>
+				<td align="center">
+					<a href="https://github.com/JpMunhozOliveira/Flappy-Bird">
+						<picture>
+							<source media="(prefers-color-scheme: dark)" srcset="resources/images/Projects/FlappyIconLight.png">
+							<img src="resources/images/Projects/FlappyIconDark.png" width="48" alt="Flappy Bird Icon">
+						</picture>
+					</a>
+				</td>
+				<td align="left"><a href="https://github.com/JpMunhozOliveira/Flappy-Bird">Flappy Bird</a></td>
+				<td align="center"><img src="https://skillicons.dev/icons?i=unity" height="24"/></td>
+			</tr>
+			<tr>
+				<td align="center">
+					<a href="https://github.com/JpMunhozOliveira/Minesweeper-Unity-Csharp">
+						<picture>
+							<source media="(prefers-color-scheme: dark)" srcset="resources/images/Projects/MinesweeperIconLight.png">
+							<img src="resources/images/Projects/MinesweeperIconDark.png" width="48" alt="Minesweeper Icon">
+						</picture>
+					</a>
+				</td>
+				<td align="left"><a href="https://github.com/JpMunhozOliveira/Minesweeper-Unity-Csharp">Minesweeper</a></td>
+				<td align="center"><img src="https://skillicons.dev/icons?i=unity" height="24"/></td>
+			</tr>
+			<tr>
+			<td align="center">
+				<a href="https://github.com/JpMunhozOliveira/Pong-Html5-Js">
+					<picture>
+						<source media="(prefers-color-scheme: dark)" srcset="resources/images/Projects/PongIconLight.png">
+						<img src="resources/images/Projects/PongIconDark.png" width="48" alt="Pong Icon">
+					</picture>
+				</a>
+			</td>
+			<td align="left"><a href="https://github.com/JpMunhozOliveira/Pong-Html5-Js">Pong</a></td>
+			<td align="center"><img src="https://skillicons.dev/icons?i=html" height="24"/></td>
+		</tr>
+		<tr>
+			<td align="center">
+				<a href="https://github.com/JpMunhozOliveira/Snake-Html5-Js">
+					<picture>
+						<source media="(prefers-color-scheme: dark)" srcset="resources/images/Projects/SnakeIconLight.png">
+						<img src="resources/images/Projects/SnakeIconDark.png" width="48" alt="Snake Icon">
+					</picture>
+				</a>
+			</td>
+			<td align="left"><a href="https://github.com/JpMunhozOliveira/Snake-Html5-Js">Snake</a></td>
+			<td align="center"><img src="https://skillicons.dev/icons?i=html" height="24"/></td>
+		</tr>
+		</table>
+	</details>
 </div>
