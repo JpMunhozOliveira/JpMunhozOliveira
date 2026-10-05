@@ -34,7 +34,7 @@
 			<td align="center">
 				<img src="https://skillicons.dev/icons?i=godot" width="40" alt="Bomberman Godot Icon">
 			</td>
-			<td align="left">Bomberman <sub>(repositório privado — link a adicionar)</sub></td>
+			<td align="left">Bomberman <sub>(repositório privado)</sub></td>
 			<td align="center"><img src="https://skillicons.dev/icons?i=godot" height="24"/></td>
 			<td align="center">🚧 Em desenvolvimento</td>
 		</tr>
@@ -52,7 +52,7 @@
 			<td align="center">
 				<img src="https://skillicons.dev/icons?i=python" width="40" alt="Detecção de Pessoas Icon">
 			</td>
-			<td align="left"><a href="#">Sistema de Detecção de Pessoas via Câmera</a> <sub>(link a adicionar)</sub></td>
+			<td align="left"><a href="https://github.com/JpMunhozOliveira/Security-cam">Sistema de Detecção de Pessoas via Câmera</a></td>
 			<td align="center"><img src="https://skillicons.dev/icons?i=python,opencv,docker" height="24"/></td>
 			<td align="center">✅ Concluído</td>
 		</tr>
@@ -60,7 +60,7 @@
 			<td align="center">
 				<img src="https://skillicons.dev/icons?i=python" width="40" alt="Estoque IA Icon">
 			</td>
-			<td align="left">Estoque-IA <sub>(repositório privado — link a adicionar)</sub></td>
+			<td align="left">Estoque-IA <sub>(repositório privado)</sub></td>
 			<td align="center"><img src="https://skillicons.dev/icons?i=python,docker" height="24"/></td>
 			<td align="center">🚧 Em desenvolvimento</td>
 		</tr>
