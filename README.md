@@ -66,7 +66,7 @@
 		</tr>
 	</table>
 	<!---Cursos--->
-	<h1>Courses</h1>
+	<h1>Cursos</h1>
  	<table>
   		<tr>
     		<th><a href="#"><img src="resources/icons/courses/freecodecamp/fcc_primary_small.svg?raw=true" height="35"></a></th>
@@ -90,7 +90,7 @@
          				<img src="resources/icons/courses/EBAC/QAE_Icon_Dark.png" width="86.22">
        				</picture>
       			</a>
-      			<br>Software Quality Engineer
+      			<br>Engenharia de Qualidade de Software
   			</td>
 			<td align="center" width="250">
      			<a href="https://github.com/JpMunhozOliveira/Imersao-Dev-10">
@@ -109,67 +109,26 @@
 		<br>
 		<table>
 			<tr>
-				<th align="center" width="90">Ícone</th>
 				<th align="left">Projeto</th>
 				<th align="center" width="110">Engine</th>
 			</tr>
 			<tr>
-				<td align="center">
-					<a href="https://github.com/JpMunhozOliveira/Breakout-Unity-Csharp">
-						<picture>
-							<source media="(prefers-color-scheme: dark)" srcset="resources/images/Projects/BreakoutIconLight.png">
-							<img src="resources/images/Projects/BreakoutIconDark.png" width="48" alt="Breakout Icon">
-						</picture>
-					</a>
-				</td>
 				<td align="left"><a href="https://github.com/JpMunhozOliveira/Breakout-Unity-Csharp">Breakout</a></td>
 				<td align="center"><img src="https://skillicons.dev/icons?i=unity" height="24"/></td>
 			</tr>
 			<tr>
-				<td align="center">
-					<a href="https://github.com/JpMunhozOliveira/Flappy-Bird">
-						<picture>
-							<source media="(prefers-color-scheme: dark)" srcset="resources/images/Projects/FlappyIconLight.png">
-							<img src="resources/images/Projects/FlappyIconDark.png" width="48" alt="Flappy Bird Icon">
-						</picture>
-					</a>
-				</td>
 				<td align="left"><a href="https://github.com/JpMunhozOliveira/Flappy-Bird">Flappy Bird</a></td>
 				<td align="center"><img src="https://skillicons.dev/icons?i=unity" height="24"/></td>
 			</tr>
 			<tr>
-				<td align="center">
-					<a href="https://github.com/JpMunhozOliveira/Minesweeper-Unity-Csharp">
-						<picture>
-							<source media="(prefers-color-scheme: dark)" srcset="resources/images/Projects/MinesweeperIconLight.png">
-							<img src="resources/images/Projects/MinesweeperIconDark.png" width="48" alt="Minesweeper Icon">
-						</picture>
-					</a>
-				</td>
 				<td align="left"><a href="https://github.com/JpMunhozOliveira/Minesweeper-Unity-Csharp">Minesweeper</a></td>
 				<td align="center"><img src="https://skillicons.dev/icons?i=unity" height="24"/></td>
 			</tr>
 			<tr>
-			<td align="center">
-				<a href="https://github.com/JpMunhozOliveira/Pong-Html5-Js">
-					<picture>
-						<source media="(prefers-color-scheme: dark)" srcset="resources/images/Projects/PongIconLight.png">
-						<img src="resources/images/Projects/PongIconDark.png" width="48" alt="Pong Icon">
-					</picture>
-				</a>
-			</td>
 			<td align="left"><a href="https://github.com/JpMunhozOliveira/Pong-Html5-Js">Pong</a></td>
 			<td align="center"><img src="https://skillicons.dev/icons?i=html" height="24"/></td>
 		</tr>
 		<tr>
-			<td align="center">
-				<a href="https://github.com/JpMunhozOliveira/Snake-Html5-Js">
-					<picture>
-						<source media="(prefers-color-scheme: dark)" srcset="resources/images/Projects/SnakeIconLight.png">
-						<img src="resources/images/Projects/SnakeIconDark.png" width="48" alt="Snake Icon">
-					</picture>
-				</a>
-			</td>
 			<td align="left"><a href="https://github.com/JpMunhozOliveira/Snake-Html5-Js">Snake</a></td>
 			<td align="center"><img src="https://skillicons.dev/icons?i=html" height="24"/></td>
 		</tr>
