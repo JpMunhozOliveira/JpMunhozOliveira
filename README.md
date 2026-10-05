@@ -1,7 +1,7 @@
 <div align="center">
 	<a href="#" target="_blank">
     	<h2>
-      	VISIT MY SITE — COMING SOON
+      	Meu Portfólio
     	</h2>
   	</a>
 	<!--Ferramentas-->
@@ -27,15 +27,15 @@
 				</a>
 			</td>
 			<td align="left"><a href="https://github.com/JpMunhozOliveira/Dark-Depths">Dark Depths</a></td>
-			<td align="center"><img src="https://skillicons.dev/icons?i=unity" height="24"/></td>
+			<td align="center"><a href="#"><img src="https://skillicons.dev/icons?i=unity" height="24"/></a></td>
 			<td align="center">✅ Concluído</td>
 		</tr>
 		<tr>
 			<td align="center">
-				<img src="https://skillicons.dev/icons?i=godot" width="40" alt="Bomberman Godot Icon">
+				<a href="#"><img src="https://skillicons.dev/icons?i=godot" width="40" alt="Bomberman Godot Icon"></a>
 			</td>
-			<td align="left">Bomberman <sub>(repositório privado)</sub></td>
-			<td align="center"><img src="https://skillicons.dev/icons?i=godot" height="24"/></td>
+			<td align="left">Into the Depths <sub>(repositório privado)</sub></td>
+			<td align="center"><a href="#"><img src="https://skillicons.dev/icons?i=godot" height="24"/></a></td>
 			<td align="center">🚧 Em desenvolvimento</td>
 		</tr>
 	</table>
@@ -50,18 +50,18 @@
 		</tr>
 		<tr>
 			<td align="center">
-				<img src="https://skillicons.dev/icons?i=python" width="40" alt="Detecção de Pessoas Icon">
+				<a href="#"><img src="https://skillicons.dev/icons?i=python" width="40" alt="Detecção de Pessoas Icon"></a>
 			</td>
 			<td align="left"><a href="https://github.com/JpMunhozOliveira/Security-cam">Sistema de Detecção de Pessoas via Câmera</a></td>
-			<td align="center"><img src="https://skillicons.dev/icons?i=python,opencv,docker" height="24"/></td>
+			<td align="center"><a href="#"><img src="https://skillicons.dev/icons?i=python,opencv,docker" height="24"/></a></td>
 			<td align="center">✅ Concluído</td>
 		</tr>
 		<tr>
 			<td align="center">
-				<img src="https://skillicons.dev/icons?i=python" width="40" alt="Estoque IA Icon">
+				<a href="#"><img src="https://skillicons.dev/icons?i=python" width="40" alt="Estoque IA Icon"></a>
 			</td>
 			<td align="left">Estoque-IA <sub>(repositório privado)</sub></td>
-			<td align="center"><img src="https://skillicons.dev/icons?i=python,docker" height="24"/></td>
+			<td align="center"><a href="#"><img src="https://skillicons.dev/icons?i=python,docker" height="24"/></a></td>
 			<td align="center">🚧 Em desenvolvimento</td>
 		</tr>
 	</table>
@@ -114,23 +114,23 @@
 			</tr>
 			<tr>
 				<td align="left"><a href="https://github.com/JpMunhozOliveira/Breakout-Unity-Csharp">Breakout</a></td>
-				<td align="center"><img src="https://skillicons.dev/icons?i=unity" height="24"/></td>
+				<td align="center"><a href="#"><img src="https://skillicons.dev/icons?i=unity" height="24"/></a></td>
 			</tr>
 			<tr>
 				<td align="left"><a href="https://github.com/JpMunhozOliveira/Flappy-Bird">Flappy Bird</a></td>
-				<td align="center"><img src="https://skillicons.dev/icons?i=unity" height="24"/></td>
+				<td align="center"><a href="#"><img src="https://skillicons.dev/icons?i=unity" height="24"/></a></td>
 			</tr>
 			<tr>
 				<td align="left"><a href="https://github.com/JpMunhozOliveira/Minesweeper-Unity-Csharp">Minesweeper</a></td>
-				<td align="center"><img src="https://skillicons.dev/icons?i=unity" height="24"/></td>
+				<td align="center"><a href="#"><img src="https://skillicons.dev/icons?i=unity" height="24"/></a></td>
 			</tr>
 			<tr>
 			<td align="left"><a href="https://github.com/JpMunhozOliveira/Pong-Html5-Js">Pong</a></td>
-			<td align="center"><img src="https://skillicons.dev/icons?i=html" height="24"/></td>
+			<td align="center"><a href="#"><img src="https://skillicons.dev/icons?i=html" height="24"/></a></td>
 		</tr>
 		<tr>
 			<td align="left"><a href="https://github.com/JpMunhozOliveira/Snake-Html5-Js">Snake</a></td>
-			<td align="center"><img src="https://skillicons.dev/icons?i=html" height="24"/></td>
+			<td align="center"><a href="#"><img src="https://skillicons.dev/icons?i=html" height="24"/></a></td>
 		</tr>
 		</table>
 	</details>
