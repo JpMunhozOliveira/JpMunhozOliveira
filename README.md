@@ -104,34 +104,30 @@
 	</table>
 	<!--Estudos e Clones-->
 	<h1>📚 Estudos e Clones</h1>
-	<details>
-		<summary>Ver projetos de aprendizado (clones de jogos clássicos)</summary>
-		<br>
-		<table>
-			<tr>
-				<th align="left">Projeto</th>
-				<th align="center" width="110">Engine</th>
-			</tr>
-			<tr>
-				<td align="left"><a href="https://github.com/JpMunhozOliveira/Breakout-Unity-Csharp">Breakout</a></td>
-				<td align="center"><a href="#"><img src="https://skillicons.dev/icons?i=unity" height="24"/></a></td>
-			</tr>
-			<tr>
-				<td align="left"><a href="https://github.com/JpMunhozOliveira/Flappy-Bird">Flappy Bird</a></td>
-				<td align="center"><a href="#"><img src="https://skillicons.dev/icons?i=unity" height="24"/></a></td>
-			</tr>
-			<tr>
-				<td align="left"><a href="https://github.com/JpMunhozOliveira/Minesweeper-Unity-Csharp">Minesweeper</a></td>
-				<td align="center"><a href="#"><img src="https://skillicons.dev/icons?i=unity" height="24"/></a></td>
-			</tr>
-			<tr>
-			<td align="left"><a href="https://github.com/JpMunhozOliveira/Pong-Html5-Js">Pong</a></td>
-			<td align="center"><a href="#"><img src="https://skillicons.dev/icons?i=html" height="24"/></a></td>
+	<table>
+		<tr>
+			<th align="left">Clones</th>
+			<th align="center" width="110">Engine</th>
 		</tr>
 		<tr>
-			<td align="left"><a href="https://github.com/JpMunhozOliveira/Snake-Html5-Js">Snake</a></td>
-			<td align="center"><a href="#"><img src="https://skillicons.dev/icons?i=html" height="24"/></a></td>
+			<td align="left"><a href="https://github.com/JpMunhozOliveira/Breakout-Unity-Csharp">Breakout</a></td>
+			<td align="center"><a href="#"><img src="https://skillicons.dev/icons?i=unity" height="24"/></a></td>
 		</tr>
-		</table>
-	</details>
+		<tr>
+			<td align="left"><a href="https://github.com/JpMunhozOliveira/Flappy-Bird">Flappy Bird</a></td>
+			<td align="center"><a href="#"><img src="https://skillicons.dev/icons?i=unity" height="24"/></a></td>
+		</tr>
+		<tr>
+			<td align="left"><a href="https://github.com/JpMunhozOliveira/Minesweeper-Unity-Csharp">Minesweeper</a></td>
+			<td align="center"><a href="#"><img src="https://skillicons.dev/icons?i=unity" height="24"/></a></td>
+		</tr>
+		<tr>
+		<td align="left"><a href="https://github.com/JpMunhozOliveira/Pong-Html5-Js">Pong</a></td>
+		<td align="center"><a href="#"><img src="https://skillicons.dev/icons?i=html" height="24"/></a></td>
+	</tr>
+	<tr>
+		<td align="left"><a href="https://github.com/JpMunhozOliveira/Snake-Html5-Js">Snake</a></td>
+		<td align="center"><a href="#"><img src="https://skillicons.dev/icons?i=html" height="24"/></a></td>
+	</tr>
+	</table>
 </div>
