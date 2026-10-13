@@ -32,7 +32,7 @@
 		</tr>
 		<tr>
 			<td align="center">
-				<a href="#"><img src="https://skillicons.dev/icons?i=godot" width="40" alt="Bomberman Godot Icon"></a>
+				<a href="#"><img src="https://skillicons.dev/icons?i=godot" width="40" alt="Into the Depths Icon"></a>
 			</td>
 			<td align="left">Into the Depths <sub>(repositório privado)</sub></td>
 			<td align="center"><a href="#"><img src="https://skillicons.dev/icons?i=godot" height="24"/></a></td>
@@ -72,6 +72,14 @@
 		    <td align="center"><a href="#"><img src="https://skillicons.dev/icons?i=html,css,javascript" height="24" alt="HTML, CSS e JavaScript"></a></td>
 		    <td align="center">🚧 Em desenvolvimento</td>
 		</tr>
+		<tr>
+			<td align="center">
+				<a href="https://jpmunhozoliveira.github.io/Generative-Playground/"><img src="https://skillicons.dev/icons?i=html" width="40" alt="Generative Playground Icon"></a>
+			</td>
+			<td align="left"><a href="https://jpmunhozoliveira.github.io/Generative-Playground/">Generative Playground</a> · <a href="https://github.com/JpMunhozOliveira/Generative-Playground">Repositório</a></td>
+			<td align="center"><img src="https://skillicons.dev/icons?i=html,css,javascript" height="24" alt="HTML, CSS e JavaScript"></td>
+			<td align="center">✅ Publicado</td>
+		</tr>
 	</table>
 	<!---Cursos--->
 	<h1>Cursos</h1>
@@ -99,7 +107,7 @@
        				</picture>
       			</a>
       			<br>Engenharia de Qualidade de Software
-  			</td>
+   			</td>
 			<td align="center" width="250">
      			<a href="https://github.com/JpMunhozOliveira/Imersao-Dev-10">
        				<picture>
@@ -107,7 +115,7 @@
        				</picture>
       			</a>
       			<br>10º Imersão Dev
-  			</td>
+   			</td>
   		</tr>
 	</table>
 	<!--Estudos e Clones-->
@@ -130,12 +138,12 @@
 			<td align="center"><a href="#"><img src="https://skillicons.dev/icons?i=unity" height="24"/></a></td>
 		</tr>
 		<tr>
-		<td align="left"><a href="https://github.com/JpMunhozOliveira/Pong-Html5-Js">Pong</a></td>
-		<td align="center"><a href="#"><img src="https://skillicons.dev/icons?i=html" height="24"/></a></td>
-	</tr>
-	<tr>
-		<td align="left"><a href="https://github.com/JpMunhozOliveira/Snake-Html5-Js">Snake</a></td>
-		<td align="center"><a href="#"><img src="https://skillicons.dev/icons?i=html" height="24"/></a></td>
-	</tr>
+			<td align="left"><a href="https://github.com/JpMunhozOliveira/Pong-Html5-Js">Pong</a></td>
+			<td align="center"><a href="#"><img src="https://skillicons.dev/icons?i=html" height="24"/></a></td>
+		</tr>
+		<tr>
+			<td align="left"><a href="https://github.com/JpMunhozOliveira/Snake-Html5-Js">Snake</a></td>
+			<td align="center"><a href="#"><img src="https://skillicons.dev/icons?i=html" height="24"/></a></td>
+		</tr>
 	</table>
 </div>
