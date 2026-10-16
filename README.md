@@ -1,5 +1,5 @@
 <div align="center">
-	<a href="#" target="_blank">
+	<a href="https://jpmunhozoliveira.github.io/" target="_blank">
     	<h2>
       	Meu Portfólio
     	</h2>
@@ -60,7 +60,7 @@
 			<td align="center">
 				<a href="#"><img src="https://skillicons.dev/icons?i=python" width="40" alt="Estoque IA Icon"></a>
 			</td>
-			<td align="left"><a href="https://github.com/JpMunhozOliveira/Estoque-IA">Estoque-IA</a> <sub>(repositório privado)</sub></td>
+			<td align="left"><a href="https://jpmunhozoliveira.github.io/estoque-ia.html">Estoque-IA</a> · <a href="https://github.com/JpMunhozOliveira/Estoque-IA">código privado</a></td>
 			<td align="center"><a href="#"><img src="https://skillicons.dev/icons?i=python,docker" height="24"/></a></td>
 			<td align="center">🚧 Em desenvolvimento</td>
 		</tr>
@@ -84,7 +84,7 @@
 			<td align="center">
 				<a href="#"><img src="https://skillicons.dev/icons?i=python" width="40" alt="Vitrine de Cursos Icon"></a>
 			</td>
-			<td align="left">Vitrine de Cursos</td>
+			<td align="left"><a href="https://jpmunhozoliveira.github.io/vitrine-de-cursos.html">Vitrine de Cursos</a></td>
 			<td align="center"><img src="https://skillicons.dev/icons?i=python,postgres" height="24" alt="Python e PostgreSQL"></td>
 			<td align="center">🚧 Em desenvolvimento</td>
 		</tr>
