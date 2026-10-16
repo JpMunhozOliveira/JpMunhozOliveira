@@ -19,7 +19,7 @@
 		</tr>
 		<tr>
 			<td align="center">
-		        <a href="#"><img src="https://skillicons.dev/icons?i=html" width="40" alt="GameShelf Icon"></a>
+		        <a href="#"><img src="/resources/icons/projects/gameshelf.png" width="40" alt="GameShelf Icon"></a>
 		    </td>
 		    <td align="left"><a href="https://jpmunhozoliveira.github.io/gameshelf.html">GameShelf</a> · <sub>Repositório privado</sub></td>
 		    <td align="center"><a href="#"><img src="https://skillicons.dev/icons?i=html,css,javascript" height="24" alt="HTML, CSS e JavaScript"></a></td>
@@ -27,7 +27,7 @@
 		</tr>
 		<tr>
 			<td align="center">
-				<a href="https://jpmunhozoliveira.github.io/Generative-Playground/"><img src="https://raw.githubusercontent.com/JpMunhozOliveira/Generative-Playground/refs/heads/master/assets/favicon.svg" width="40" alt="Generative Playground Icon"></a>
+				<a href="#"><img src="/resources/icons/projects/generative-playground.png"width="40" alt="Generative Playground Icon"></a>
 			</td>
 			<td align="left"><a href="https://jpmunhozoliveira.github.io/Generative-Playground/">Generative Playground</a> ·  <sub><a href="https://github.com/JpMunhozOliveira/Generative-Playground">Repositório</a></sub></td>
 			<td align="center"><a href="#"><img src="https://skillicons.dev/icons?i=html,css,javascript" height="24" alt="HTML, CSS e JavaScript"></a></td>
@@ -35,7 +35,7 @@
 		</tr>
 		<tr>
 			<td align="center">
-				<a href="#"><img src="https://skillicons.dev/icons?i=python" width="40" alt="Detecção de Pessoas Icon"></a>
+				<a href="#"><img src="/resources/icons/projects/cameraia.png" width="40" alt="Detecção de Pessoas Icon"></a>
 			</td>
 			<td align="left"><a href="https://jpmunhozoliveira.github.io/security-cam.html">HumanTrack</a> · <sub>Repositório privado</sub></td>
 			<td align="center"><a href="#"><img src="https://skillicons.dev/icons?i=python,opencv,docker" height="24"/></a></td>
@@ -43,7 +43,7 @@
 		</tr>
 		<tr>
 			<td align="center">
-				<a href="#"><img src="https://skillicons.dev/icons?i=python" width="40" alt="Estoque IA Icon"></a>
+				<a href="#"><img src="/resources/icons/projects/estoque-ia.png" width="40" alt="Estoque IA Icon"></a>
 			</td>
 			<td align="left"><a href="https://jpmunhozoliveira.github.io/estoque-ia.html">Estoque Logístico</a> · <sub>Repositório privado</sub></td>
 			<td align="center"><a href="#"><img src="https://skillicons.dev/icons?i=python,docker" height="24"/></a></td>
@@ -51,7 +51,7 @@
 		</tr>
 		<tr>
 			<td align="center">
-				<a href="#"><img src="https://skillicons.dev/icons?i=python" width="40" alt="Vitrine de Cursos Icon"></a>
+				<a href="#"><img src="/resources/icons/projects/vitrinecursos.png" width="40" alt="Vitrine de Cursos Icon"></a>
 			</td>
 			<td align="left"><a href="https://jpmunhozoliveira.github.io/vitrine-de-cursos.html">Vitrine de Cursos</a> · <sub>Repositório privado</sub></td>
 			<td align="center"><img src="https://skillicons.dev/icons?i=python,postgres" height="24" alt="Python e PostgreSQL"></td>
@@ -69,12 +69,7 @@
 		</tr>
 		<tr>
 			<td align="center">
-				<a href="https://github.com/JpMunhozOliveira/Dark-Depths">
-					<picture>
-						<source media="(prefers-color-scheme: dark)" srcset="resources/images/Projects/DarkDepthsIconLight.png">
-						<img src="resources/images/Projects/DarkDepthsIconDark.png" width="48" alt="Dark Depths Icon">
-					</picture>
-				</a>
+				<a href="https://github.com/JpMunhozOliveira/Dark-Depths"><img src="/resources/icons/projects/dark-depths.png" width="40" alt="Dark Depths Icon"></a>
 			</td>
 			<td align="left"><a href="https://github.com/JpMunhozOliveira/Dark-Depths">Dark Depths</a></td>
 			<td align="center"><a href="#"><img src="https://skillicons.dev/icons?i=unity" height="24"/></a></td>
@@ -82,7 +77,7 @@
 		</tr>
 		<tr>
 			<td align="center">
-				<a href="#"><img src="https://skillicons.dev/icons?i=godot" width="40" alt="Into the Depths Icon"></a>
+				<a href="#"><img src="/resources/icons/projects/DD-godot.png" width="40" alt="Into the Depths Icon"></a>
 			</td>
 			<td align="left">Into the Depths · <sub>Repositório privado</sub></td>
 			<td align="center"><a href="#"><img src="https://skillicons.dev/icons?i=godot" height="24"/></a></td>
