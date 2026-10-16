@@ -8,6 +8,56 @@
 	<a href="#">
   		<img src="https://skills.syvixor.com/api/icons?perline=15&i=visualstudiocode,unity,godot,html,css3,javascript,csharp,python,docker" />
 	</a>
+	<!--Projetos-->
+	<h1>🛠️ Projetos</h1>
+	<table>
+		<tr>
+			<th align="center" width="90">Ícone</th>
+			<th align="left">Projeto</th>
+			<th align="center" width="110">Stack</th>
+			<th align="center" width="110">Status</th>
+		</tr>
+		<tr>
+			<td align="center">
+		        <a href="#"><img src="https://skillicons.dev/icons?i=html" width="40" alt="GameShelf Icon"></a>
+		    </td>
+		    <td align="left"><a href="https://jpmunhozoliveira.github.io/gameshelf.html">GameShelf</a> · <sub>Repositório privado</sub></td>
+		    <td align="center"><a href="#"><img src="https://skillicons.dev/icons?i=html,css,javascript" height="24" alt="HTML, CSS e JavaScript"></a></td>
+		    <td align="center">🚧 Em desenvolvimento</td>
+		</tr>
+		<tr>
+			<td align="center">
+				<a href="https://jpmunhozoliveira.github.io/Generative-Playground/"><img src="https://raw.githubusercontent.com/JpMunhozOliveira/Generative-Playground/refs/heads/master/assets/favicon.svg" width="40" alt="Generative Playground Icon"></a>
+			</td>
+			<td align="left"><a href="https://jpmunhozoliveira.github.io/Generative-Playground/">Generative Playground</a> ·  <sub><a href="https://github.com/JpMunhozOliveira/Generative-Playground">Repositório</a></sub></td>
+			<td align="center"><a href="#"><img src="https://skillicons.dev/icons?i=html,css,javascript" height="24" alt="HTML, CSS e JavaScript"></a></td>
+			<td align="center">✅ Publicado</td>
+		</tr>
+		<tr>
+			<td align="center">
+				<a href="#"><img src="https://skillicons.dev/icons?i=python" width="40" alt="Detecção de Pessoas Icon"></a>
+			</td>
+			<td align="left"><a href="https://jpmunhozoliveira.github.io/security-cam.html">HumanTrack</a> · <sub>Repositório privado</sub></td>
+			<td align="center"><a href="#"><img src="https://skillicons.dev/icons?i=python,opencv,docker" height="24"/></a></td>
+			<td align="center">🚧 Em desenvolvimento</td>
+		</tr>
+		<tr>
+			<td align="center">
+				<a href="#"><img src="https://skillicons.dev/icons?i=python" width="40" alt="Estoque IA Icon"></a>
+			</td>
+			<td align="left"><a href="https://jpmunhozoliveira.github.io/estoque-ia.html">Estoque Logístico</a> · <sub>Repositório privado</sub></td>
+			<td align="center"><a href="#"><img src="https://skillicons.dev/icons?i=python,docker" height="24"/></a></td>
+			<td align="center">🚧 Em desenvolvimento</td>
+		</tr>
+		<tr>
+			<td align="center">
+				<a href="#"><img src="https://skillicons.dev/icons?i=python" width="40" alt="Vitrine de Cursos Icon"></a>
+			</td>
+			<td align="left"><a href="https://jpmunhozoliveira.github.io/vitrine-de-cursos.html">Vitrine de Cursos</a> · <sub>Repositório privado</sub></td>
+			<td align="center"><img src="https://skillicons.dev/icons?i=python,postgres" height="24" alt="Python e PostgreSQL"></td>
+			<td align="center">🚧 Em desenvolvimento</td>
+		</tr>
+	</table>
 	<!--Jogos-->
 	<h1>🎮 Jogos</h1>
 	<table>
@@ -34,58 +84,8 @@
 			<td align="center">
 				<a href="#"><img src="https://skillicons.dev/icons?i=godot" width="40" alt="Into the Depths Icon"></a>
 			</td>
-			<td align="left">Into the Depths <sub>(repositório privado)</sub></td>
+			<td align="left">Into the Depths · <sub>Repositório privado</sub></td>
 			<td align="center"><a href="#"><img src="https://skillicons.dev/icons?i=godot" height="24"/></a></td>
-			<td align="center">🚧 Em desenvolvimento</td>
-		</tr>
-	</table>
-	<!--Projetos-->
-	<h1>🛠️ Projetos</h1>
-	<table>
-		<tr>
-			<th align="center" width="90">Ícone</th>
-			<th align="left">Projeto</th>
-			<th align="center" width="110">Stack</th>
-			<th align="center" width="110">Status</th>
-		</tr>
-		<tr>
-			<td align="center">
-				<a href="#"><img src="https://skillicons.dev/icons?i=python" width="40" alt="Detecção de Pessoas Icon"></a>
-			</td>
-			<td align="left"><a href="https://jpmunhozoliveira.github.io/security-cam.html">Sistema de Detecção de Pessoas via Câmera</a> · <sub>código privado</sub></td>
-			<td align="center"><a href="#"><img src="https://skillicons.dev/icons?i=python,opencv,docker" height="24"/></a></td>
-			<td align="center">🚧 Em desenvolvimento</td>
-		</tr>
-		<tr>
-			<td align="center">
-				<a href="#"><img src="https://skillicons.dev/icons?i=python" width="40" alt="Estoque IA Icon"></a>
-			</td>
-			<td align="left"><a href="https://jpmunhozoliveira.github.io/estoque-ia.html">Estoque-IA</a> · <a href="https://github.com/JpMunhozOliveira/Estoque-IA">código privado</a></td>
-			<td align="center"><a href="#"><img src="https://skillicons.dev/icons?i=python,docker" height="24"/></a></td>
-			<td align="center">🚧 Em desenvolvimento</td>
-		</tr>
-		<tr>
-			<td align="center">
-		        <a href="#"><img src="https://skillicons.dev/icons?i=html" width="40" alt="GameShelf Icon"></a>
-		    </td>
-		    <td align="left"><a href="https://jpmunhozoliveira.github.io/gameshelf.html">GameShelf</a> · <sub>código privado</sub></td>
-		    <td align="center"><a href="#"><img src="https://skillicons.dev/icons?i=html,css,javascript" height="24" alt="HTML, CSS e JavaScript"></a></td>
-		    <td align="center">🚧 Em desenvolvimento</td>
-		</tr>
-		<tr>
-			<td align="center">
-				<a href="https://jpmunhozoliveira.github.io/Generative-Playground/"><img src="https://skillicons.dev/icons?i=html" width="40" alt="Generative Playground Icon"></a>
-			</td>
-			<td align="left"><a href="https://jpmunhozoliveira.github.io/Generative-Playground/">Generative Playground</a> · <a href="https://github.com/JpMunhozOliveira/Generative-Playground">Repositório</a></td>
-			<td align="center"><img src="https://skillicons.dev/icons?i=html,css,javascript" height="24" alt="HTML, CSS e JavaScript"></td>
-			<td align="center">✅ Publicado</td>
-		</tr>
-		<tr>
-			<td align="center">
-				<a href="#"><img src="https://skillicons.dev/icons?i=python" width="40" alt="Vitrine de Cursos Icon"></a>
-			</td>
-			<td align="left"><a href="https://jpmunhozoliveira.github.io/vitrine-de-cursos.html">Vitrine de Cursos</a></td>
-			<td align="center"><img src="https://skillicons.dev/icons?i=python,postgres" height="24" alt="Python e PostgreSQL"></td>
 			<td align="center">🚧 Em desenvolvimento</td>
 		</tr>
 	</table>
