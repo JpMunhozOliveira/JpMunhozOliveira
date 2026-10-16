@@ -52,7 +52,7 @@
 			<td align="center">
 				<a href="#"><img src="https://skillicons.dev/icons?i=python" width="40" alt="Detecção de Pessoas Icon"></a>
 			</td>
-			<td align="left"><a href="https://github.com/JpMunhozOliveira/Security-cam">Sistema de Detecção de Pessoas via Câmera</a></td>
+			<td align="left"><a href="https://jpmunhozoliveira.github.io/security-cam.html">Sistema de Detecção de Pessoas via Câmera</a> · <sub>código privado</sub></td>
 			<td align="center"><a href="#"><img src="https://skillicons.dev/icons?i=python,opencv,docker" height="24"/></a></td>
 			<td align="center">🚧 Em desenvolvimento</td>
 		</tr>
@@ -68,7 +68,7 @@
 			<td align="center">
 		        <a href="#"><img src="https://skillicons.dev/icons?i=html" width="40" alt="GameShelf Icon"></a>
 		    </td>
-		    <td align="left"><a href="https://github.com/JpMunhozOliveira/GameShelf">GameShelf</a><sub>(repositório privado)</sub></td>
+		    <td align="left"><a href="https://jpmunhozoliveira.github.io/gameshelf.html">GameShelf</a> · <sub>código privado</sub></td>
 		    <td align="center"><a href="#"><img src="https://skillicons.dev/icons?i=html,css,javascript" height="24" alt="HTML, CSS e JavaScript"></a></td>
 		    <td align="center">🚧 Em desenvolvimento</td>
 		</tr>
