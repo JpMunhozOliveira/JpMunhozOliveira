@@ -46,7 +46,7 @@
 				<a href="#"><img src="/resources/icons/projects/estoque-ia.png" width="40" alt="Estoque IA Icon"></a>
 			</td>
 			<td align="left"><a href="https://jpmunhozoliveira.github.io/estoque-ia.html">Estoque Logístico</a> · <sub>Repositório privado</sub></td>
-			<td align="center"><a href="#"><img src="https://skillicons.dev/icons?i=python,docker" height="24"/></a></td>
+			<td align="center"><img src="https://skillicons.dev/icons?i=python,postgres" height="24" alt="Python e PostgreSQL"></td>
 			<td align="center">🚧 Em desenvolvimento</td>
 		</tr>
 		<tr>
@@ -54,7 +54,7 @@
 				<a href="#"><img src="/resources/icons/projects/vitrinecursos.png" width="40" alt="Vitrine de Cursos Icon"></a>
 			</td>
 			<td align="left"><a href="https://jpmunhozoliveira.github.io/vitrine-de-cursos.html">Vitrine de Cursos</a> · <sub>Repositório privado</sub></td>
-			<td align="center"><img src="https://skillicons.dev/icons?i=python,postgres" height="24" alt="Python e PostgreSQL"></td>
+			<td align="center"><img src="https://skillicons.dev/icons?i=react,postgres" height="24" alt="React e PostgreSQL"></td>
 			<td align="center">🚧 Em desenvolvimento</td>
 		</tr>
 	</table>
