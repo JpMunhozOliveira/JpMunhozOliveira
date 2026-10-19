@@ -19,19 +19,19 @@
 		</tr>
 		<tr>
 			<td align="center">
+				<a href="#"><img src="/resources/icons/projects/page.png"width="40" alt="P.A.G.E Icon"></a>
+			</td>
+			<td align="left"><a href="#">P.A.G.E</a> · <sub>Repositório privado</sub></td></td>
+			<td align="center"><a href="#"><img src="https://skillicons.dev/icons?i=rust" height="24" alt="Rust"></a></td>
+			<td align="center">✅ Publicado</td>
+		</tr>
+		<tr>
+			<td align="center">
 		        <a href="#"><img src="/resources/icons/projects/gameshelf.png" width="40" alt="GameShelf Icon"></a>
 		    </td>
 		    <td align="left"><a href="https://jpmunhozoliveira.github.io/gameshelf.html">GameShelf</a> · <sub>Repositório privado</sub></td>
 		    <td align="center"><a href="#"><img src="https://skillicons.dev/icons?i=html,css,javascript" height="24" alt="HTML, CSS e JavaScript"></a></td>
 		    <td align="center">🚧 Em desenvolvimento</td>
-		</tr>
-		<tr>
-			<td align="center">
-				<a href="#"><img src="/resources/icons/projects/generative-playground.png"width="40" alt="Generative Playground Icon"></a>
-			</td>
-			<td align="left"><a href="https://jpmunhozoliveira.github.io/Generative-Playground/">Generative Playground</a> ·  <sub><a href="https://github.com/JpMunhozOliveira/Generative-Playground">Repositório</a></sub></td>
-			<td align="center"><a href="#"><img src="https://skillicons.dev/icons?i=html,css,javascript" height="24" alt="HTML, CSS e JavaScript"></a></td>
-			<td align="center">✅ Publicado</td>
 		</tr>
 		<tr>
 			<td align="center">
@@ -56,6 +56,14 @@
 			<td align="left"><a href="https://jpmunhozoliveira.github.io/vitrine-de-cursos.html">Vitrine de Cursos</a> · <sub>Repositório privado</sub></td>
 			<td align="center"><img src="https://skillicons.dev/icons?i=react,postgres" height="24" alt="React e PostgreSQL"></td>
 			<td align="center">🚧 Em desenvolvimento</td>
+		</tr>
+		<tr>
+			<td align="center">
+				<a href="#"><img src="/resources/icons/projects/generative-playground.png"width="40" alt="Generative Playground Icon"></a>
+			</td>
+			<td align="left"><a href="https://jpmunhozoliveira.github.io/Generative-Playground/">Generative Playground</a> ·  <sub><a href="https://github.com/JpMunhozOliveira/Generative-Playground">Repositório</a></sub></td>
+			<td align="center"><a href="#"><img src="https://skillicons.dev/icons?i=html,css,javascript" height="24" alt="HTML, CSS e JavaScript"></a></td>
+			<td align="center">✅ Publicado</td>
 		</tr>
 	</table>
 	<!--Jogos-->
