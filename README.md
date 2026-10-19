@@ -79,7 +79,7 @@
 			<td align="center">
 				<a href="https://github.com/JpMunhozOliveira/Dark-Depths"><img src="/resources/icons/projects/dark-depths.png" width="40" alt="Dark Depths Icon"></a>
 			</td>
-			<td align="left"><a href="https://github.com/JpMunhozOliveira/Dark-Depths">Dark Depths</a></td>
+			<td align="left">Dark Depths ·  <sub><a href="https://github.com/JpMunhozOliveira/Dark-Depths">Repositório</a></sub></td>
 			<td align="center"><a href="#"><img src="https://skillicons.dev/icons?i=unity" height="24"/></a></td>
 			<td align="center">✅ Concluído</td>
 		</tr>
