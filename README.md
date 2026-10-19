@@ -23,7 +23,7 @@
 			</td>
 			<td align="left"><a href="#">P.A.G.E</a> · <sub>Repositório privado</sub></td></td>
 			<td align="center"><a href="#"><img src="https://skillicons.dev/icons?i=rust" height="24" alt="Rust"></a></td>
-			<td align="center">✅ Publicado</td>
+			<td align="center">✅ Concluído</td>
 		</tr>
 		<tr>
 			<td align="center">
@@ -63,7 +63,7 @@
 			</td>
 			<td align="left"><a href="https://jpmunhozoliveira.github.io/Generative-Playground/">Generative Playground</a> ·  <sub><a href="https://github.com/JpMunhozOliveira/Generative-Playground">Repositório</a></sub></td>
 			<td align="center"><a href="#"><img src="https://skillicons.dev/icons?i=html,css,javascript" height="24" alt="HTML, CSS e JavaScript"></a></td>
-			<td align="center">✅ Publicado</td>
+			<td align="center">✅ Concluído</td>
 		</tr>
 	</table>
 	<!--Jogos-->
