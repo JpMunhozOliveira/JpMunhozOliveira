@@ -22,7 +22,7 @@
 				<a href="#"><img src="/resources/icons/projects/page.png"width="40" alt="P.A.G.E Icon"></a>
 			</td>
 			<td align="left"><a href="#">P.A.G.E</a> · <sub>Repositório privado</sub></td></td>
-			<td align="center"><a href="#"><img src="https://skillicons.dev/icons?i=rust" height="24" alt="Rust"></a></td>
+			<td align="center"><a href="#"><img src="https://skills.syvixor.com/api/icons?i=rust,tauri,typescript,vite,docker,githubactions&perline=3&radius=40" height="60" alt="Rust, Tauri, Typescript, Vite, Docker e Github Actions"></a></td>
 			<td align="center">✅ Concluído</td>
 		</tr>
 		<tr>
@@ -30,7 +30,7 @@
 		        <a href="#"><img src="/resources/icons/projects/gameshelf.png" width="40" alt="GameShelf Icon"></a>
 		    </td>
 		    <td align="left"><a href="https://jpmunhozoliveira.github.io/gameshelf.html">GameShelf</a> · <sub>Repositório privado</sub></td>
-		    <td align="center"><a href="#"><img src="https://skillicons.dev/icons?i=html,css,javascript" height="24" alt="HTML, CSS e JavaScript"></a></td>
+		    <td align="center"><a href="#"><img src="https://skills.syvixor.com/api/icons?i=html,css3,javascript&radius=40" height="30" alt="HTML, CSS e JavaScript")></a></td>
 		    <td align="center">🚧 Em desenvolvimento</td>
 		</tr>
 		<tr>
@@ -38,7 +38,7 @@
 				<a href="#"><img src="/resources/icons/projects/cameraia.png" width="40" alt="Detecção de Pessoas Icon"></a>
 			</td>
 			<td align="left"><a href="https://jpmunhozoliveira.github.io/security-cam.html">HumanTrack</a> · <sub>Repositório privado</sub></td>
-			<td align="center"><a href="#"><img src="https://skillicons.dev/icons?i=python,opencv,docker" height="24"/></a></td>
+			<td align="center"><a href="#"><img src="https://skills.syvixor.com/api/icons?i=python,opencv,yolo,docker&perline=2&radius=40" height="60" alt="Python, OpenCV, YOLO e Docker"/></a></td>
 			<td align="center">🚧 Em desenvolvimento</td>
 		</tr>
 		<tr>
@@ -46,7 +46,7 @@
 				<a href="#"><img src="/resources/icons/projects/estoque-ia.png" width="40" alt="Estoque IA Icon"></a>
 			</td>
 			<td align="left"><a href="https://jpmunhozoliveira.github.io/estoque-ia.html">Estoque Logístico</a> · <sub>Repositório privado</sub></td>
-			<td align="center"><img src="https://skillicons.dev/icons?i=python,postgres" height="24" alt="Python e PostgreSQL"></td>
+			<td align="center"><img src="https://skills.syvixor.com/api/icons?i=python,fastapi,postgresql,sqlalchemy,docker&perline=3&radius=40" height="60" alt="Skill Icons" /></td>
 			<td align="center">🚧 Em desenvolvimento</td>
 		</tr>
 		<tr>
@@ -54,15 +54,15 @@
 				<a href="#"><img src="/resources/icons/projects/vitrinecursos.png" width="40" alt="Vitrine de Cursos Icon"></a>
 			</td>
 			<td align="left"><a href="https://jpmunhozoliveira.github.io/vitrine-de-cursos.html">Vitrine de Cursos</a> · <sub>Repositório privado</sub></td>
-			<td align="center"><img src="https://skillicons.dev/icons?i=react,postgres" height="24" alt="React e PostgreSQL"></td>
+			<td align="center"><img src="https://skills.syvixor.com/api/icons?i=html,css3,javascript,nodejs,reactjs,postgresql&perline=3&radius=40" height="60" alt="HTML, CSS, JavaScript, Node.js, React e PostgreSQL"></td>
 			<td align="center">🚧 Em desenvolvimento</td>
 		</tr>
 		<tr>
 			<td align="center">
-				<a href="#"><img src="/resources/icons/projects/generative-playground.png"width="40" alt="Generative Playground Icon"></a>
+				<a href="#"><img src="/resources/icons/projects/generative-playground.png" width="40" alt="Generative Playground Icon"></a>
 			</td>
 			<td align="left"><a href="https://jpmunhozoliveira.github.io/Generative-Playground/">Generative Playground</a> ·  <sub><a href="https://github.com/JpMunhozOliveira/Generative-Playground">Repositório</a></sub></td>
-			<td align="center"><a href="#"><img src="https://skillicons.dev/icons?i=html,css,javascript" height="24" alt="HTML, CSS e JavaScript"></a></td>
+			<td align="center"><a href="#"><img src="https://skills.syvixor.com/api/icons?i=html,css3,javascript&radius=40" height="30" alt="HTML, CSS e JavaScript"></a></td>
 			<td align="center">✅ Concluído</td>
 		</tr>
 	</table>
