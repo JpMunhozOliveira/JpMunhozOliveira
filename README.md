@@ -39,7 +39,7 @@
 			</td>
 			<td align="left"><a href="https://jpmunhozoliveira.github.io/security-cam.html">HumanTrack</a> · <sub>Repositório privado</sub></td>
 			<td align="center"><a href="#"><img src="https://skills.syvixor.com/api/icons?i=python,opencv,yolo,docker&perline=2&radius=40" height="60" alt="Python, OpenCV, YOLO e Docker"/></a></td>
-			<td align="center">🚧 Em desenvolvimento</td>
+			<td align="center">🧪 Protótipo concluído</td>
 		</tr>
 		<tr>
 			<td align="center">
@@ -55,7 +55,7 @@
 			</td>
 			<td align="left"><a href="https://jpmunhozoliveira.github.io/vitrine-de-cursos.html">Vitrine de Cursos</a> · <sub>Repositório privado</sub></td>
 			<td align="center"><img src="https://skills.syvixor.com/api/icons?i=html,css3,javascript,nodejs,reactjs,postgresql&perline=3&radius=40" height="60" alt="HTML, CSS, JavaScript, Node.js, React e PostgreSQL"></td>
-			<td align="center">🚧 Em desenvolvimento</td>
+			<td align="center">🧪 Protótipo concluído</td>
 		</tr>
 		<tr>
 			<td align="center">
