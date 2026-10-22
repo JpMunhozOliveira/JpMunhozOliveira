@@ -21,8 +21,8 @@
 			<td align="center">
 				<a href="#"><img src="/resources/icons/projects/page.png" width="40" alt="P.A.G.E Icon"></a>
 			</td>
-			<td align="left"><a href="#">P.A.G.E</a> · <sub>Repositório privado</sub></td></td>
-			<td align="center"><a href="#"><img src="https://skills.syvixor.com/api/icons?i=rust,tauri,typescript,vite,docker,githubactions&perline=3&radius=40" height="60" alt="Rust, Tauri, Typescript, Vite, Docker e Github Actions"></a></td>
+			<td align="left"><a href="#">P.A.G.E.</a> · <sub>Repositório privado</sub></td></td>
+			<td align="center"><a href="#"><img src="https://skills.syvixor.com/api/icons?i=rust,tauri,typescript,vite&perline=2&radius=40" height="60" alt="Rust, Tauri, Typescript, Vite"></a></td>
 			<td align="center">✅ Concluído</td>
 		</tr>
 		<tr>
